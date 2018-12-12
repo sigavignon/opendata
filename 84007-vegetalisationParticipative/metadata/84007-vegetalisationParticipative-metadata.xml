@@ -7,7 +7,7 @@
 		<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre">fre</gmd:LanguageCode>
 	</gmd:language>
 	<gmd:characterSet>
-		<gmd:MD_CharacterSetCode codeListValue="MD_CharacterSetCode_utf8" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_CharacterSetCode">MD_CharacterSetCode_utf8</gmd:MD_CharacterSetCode>
+		<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
 	</gmd:characterSet>
 	<gmd:hierarchyLevel>
 		<gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
@@ -90,7 +90,7 @@
 			<gmd:citation>
 				<gmd:CI_Citation>
 					<gmd:title>
-						<gco:CharacterString>Parcs et Jardins sur Avignon</gco:CharacterString>
+						<gco:CharacterString>Végétalisation Participative Avignon</gco:CharacterString>
 					</gmd:title>
 					<gmd:date>
 						<gmd:CI_Date>
@@ -105,7 +105,7 @@
 					<gmd:date>
 						<gmd:CI_Date>
 							<gmd:date>
-								<gco:Date>2017-07-04</gco:Date>
+								<gco:Date>2018-12-12</gco:Date>
 							</gmd:date>
 							<gmd:dateType>
 								<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
@@ -125,14 +125,18 @@
 					<gmd:identifier>
 						<gmd:MD_Identifier>
 							<gmd:code>
-								<gco:CharacterString>fr-218400075-84007parcsJardins-20181212</gco:CharacterString>
+								<gco:CharacterString>fr-218400075-84007vegetalisationParticipative-20181212</gco:CharacterString>
 							</gmd:code>
 						</gmd:MD_Identifier>
 					</gmd:identifier>
 				</gmd:CI_Citation>
 			</gmd:citation>
 			<gmd:abstract>
-				<gco:CharacterString>Emplacement des parcs et jardins sur Avignon
+				<gco:CharacterString>La ville d’Avignon, à travers l’opération « Avignon, Végétalisons ensemble nos Espaces Publics » , souhaite associer concrètement la population à ce projet de mise en valeur du cadre de vie quotidien dans l’ensemble des quartiers de la ville, en offrant ainsi aux habitants la possibilité de planter devant chez eux avec l’appui technique et l’autorisation écrite de la commune.
+Le 30 septembre 2015, la Ville votait une délibération en faveur de la végétalisation des espaces publics, proposant une convention qui définit le rôle, la responsabilité et les obligations de chacun des acteurs associés à cette démarche, tout en précisant l’organisation et les techniques mises en œuvre. 
+Depuis plusieurs années, cette volonté de partage de l’espace public s’est illustrée dans de nombreuses villes, à l’étranger comme en France, notamment dans celles de Paris, Montreuil, Bordeaux et quelques autres encore, suscitant à chaque fois un élan solidaire, créatif et convivial retissant le lien social. 
+Ces initiatives reposent sur une idée simple mais néanmoins toujours innovante : faire confiance aux habitants en leur déléguant la gestion de végétaux plantés dans l’espace public, moyennant des engagements respectant les grandes lignes d’une charte de l’environnement adoptée par les villes. Partout où ils ont été mis en œuvre, ces espaces végétalisés ont un rôle multifonctionnel en milieu urbain : permettre la création de lien social et de mixité culturelle, promouvoir des projets citoyens locaux, développer l’éducation à l’environnement. 
+Nous trouvons dans ce lot de données l'ensemble des sites dont le statut est "terminé".
 Données NON OPPOSABLE
 LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			</gmd:abstract>
@@ -200,21 +204,28 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			<gmd:descriptiveKeywords>
 				<gmd:MD_Keywords>
 					<gmd:keyword>
-						<gco:CharacterString>parcs</gco:CharacterString>
+						<gco:CharacterString>environnement</gco:CharacterString>
 					</gmd:keyword>
 				</gmd:MD_Keywords>
 			</gmd:descriptiveKeywords>
 			<gmd:descriptiveKeywords>
 				<gmd:MD_Keywords>
 					<gmd:keyword>
-						<gco:CharacterString>jardins</gco:CharacterString>
+						<gco:CharacterString>participatif</gco:CharacterString>
 					</gmd:keyword>
 				</gmd:MD_Keywords>
 			</gmd:descriptiveKeywords>
 			<gmd:descriptiveKeywords>
 				<gmd:MD_Keywords>
 					<gmd:keyword>
-						<gco:CharacterString>espaces verts</gco:CharacterString>
+						<gco:CharacterString>vegetalisation</gco:CharacterString>
+					</gmd:keyword>
+				</gmd:MD_Keywords>
+			</gmd:descriptiveKeywords>
+			<gmd:descriptiveKeywords>
+				<gmd:MD_Keywords>
+					<gmd:keyword>
+						<gco:CharacterString>participative</gco:CharacterString>
 					</gmd:keyword>
 				</gmd:MD_Keywords>
 			</gmd:descriptiveKeywords>
@@ -236,7 +247,7 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 					<gmd:equivalentScale>
 						<gmd:MD_RepresentativeFraction>
 							<gmd:denominator>
-								<gco:Integer>500</gco:Integer>
+								<gco:Integer>2000</gco:Integer>
 							</gmd:denominator>
 						</gmd:MD_RepresentativeFraction>
 					</gmd:equivalentScale>
@@ -245,6 +256,9 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			<gmd:language>
 				<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre">fre</gmd:LanguageCode>
 			</gmd:language>
+			<gmd:characterSet>
+				<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+			</gmd:characterSet>
 			<gmd:extent>
 				<gmd:EX_Extent>
 					<gmd:description>
@@ -292,15 +306,45 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 					</gmd:version>
 				</gmd:MD_Format>
 			</gmd:distributionFormat>
+			<gmd:distributionFormat>
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>SQLite / Spatialite</gco:CharacterString>
+					</gmd:name>
+					<gmd:version>
+						<gco:CharacterString></gco:CharacterString>
+					</gmd:version>
+				</gmd:MD_Format>
+			</gmd:distributionFormat>
+			<gmd:distributionFormat>
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>CSV</gco:CharacterString>
+					</gmd:name>
+					<gmd:version>
+						<gco:CharacterString></gco:CharacterString>
+					</gmd:version>
+				</gmd:MD_Format>
+			</gmd:distributionFormat>
 			<gmd:transferOptions>
 				<gmd:MD_DigitalTransferOptions>
 					<gmd:onLine>
 						<gmd:CI_OnlineResource>
 							<gmd:linkage>
-								<gmd:URL>http://u.osmfr.org/m/154509/</gmd:URL>
+								<gmd:URL>http://u.osmfr.org/m/274715/</gmd:URL>
 							</gmd:linkage>
 							<gmd:name>
 								<gco:CharacterString>Visualisation de la carte</gco:CharacterString>
+							</gmd:name>
+						</gmd:CI_OnlineResource>
+					</gmd:onLine>
+					<gmd:onLine>
+						<gmd:CI_OnlineResource>
+							<gmd:linkage>
+								<gmd:URL>http://www.avignon.fr/ma-ville/environnement/vegetalisation-participative/</gmd:URL>
+							</gmd:linkage>
+							<gmd:name>
+								<gco:CharacterString>Végétalisation participative - Mode d'emploi</gco:CharacterString>
 							</gmd:name>
 						</gmd:CI_OnlineResource>
 					</gmd:onLine>
@@ -361,10 +405,9 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			<gmd:lineage>
 				<gmd:LI_Lineage>
 					<gmd:statement>
-						<gco:CharacterString>Les parcs et jardins sont la consolidation de 2 sources de données interne à la Ville d'Avignon : 
-- Les données du service Espaces Verts
-- Les données du service Patrimoine
-Elles ont ensuite été qualifiées par ces 2 services</gco:CharacterString>
+						<gco:CharacterString>Les projets sont suivis par une application métier au sein de la collectivité. Le gestionnaire des données est le Département Modernisation / Nature en Ville.
+Ces données sont extraites tous les mois pour être publiées en OpenData sur la plateforme www.datasud.fr
+Il s'agit ici d'une réprésentation cartographique de ces données.</gco:CharacterString>
 					</gmd:statement>
 				</gmd:LI_Lineage>
 			</gmd:lineage>
