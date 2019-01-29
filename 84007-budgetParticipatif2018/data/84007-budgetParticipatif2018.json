@@ -1,157 +1,7 @@
 {
-	"type" : "FeatureCollection",
 	"name" : "Output",
+	"type" : "FeatureCollection",
 	"features" : [
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.885010661845147, 43.90658972980528 ]
-			},
-			"properties" : {
-				"id" : 13,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Aménagement d'un jardin potager, collectif partagé et famillial",
-				"projet_localisation" : "chemin de la castelette, sur un terrain qui appartient à Haribo ",
-				"projet_secteur" : "Montfavet",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : 150000,
-				"projet_numero" : "22",
-				"porteur_collectif" : "Jardiniers du Jardin de Favet",
-				"projet_sous_theme" : "environnement",
-				"projet_description" : "Aménagement de parcelles de jardins en direction de famille, d'association, de collectif d'habitant en vue de cultiver des potagers et de favoriser les rencontres et la solidarité",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.803374126462899, 43.943599367138575 ]
-			},
-			"properties" : {
-				"id" : 68,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Avignon verdoyante",
-				"projet_localisation" : "rue st charles",
-				"projet_secteur" : "intra-muros",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : null,
-				"projet_numero" : "04",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "Avignon se transforme, s'embellit avec ses places, ses façades, ses rues piétonnes…. Et si nous faisions encore plus en apportant du vert dans notre ville\nLa 2ème partie de la rue St Charles, longeant le côté de ouest de la poste après le carrefour du BD Raspail trottoir à droite fait office d'ilot sur une longueur de 40 à 50 m . De chaque côté de ce trottoir stationnement de voiture , et si on plantait sur cet ilot quelques arbres.... et si on arborait aussi le trottoir côté poste afin de transformer cette rue en une rue verdoyante, et si on interdisait le stationnement des rues côté poste, cela éviterait que ça serve d'urinoir",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.826704689160189, 43.93531092169307 ]
-			},
-			"properties" : {
-				"id" : 90,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Faire Fresque murale au stade Léon Dulcy",
-				"projet_localisation" : "stade Leon dulcy",
-				"projet_secteur" : "nord rocade",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : null,
-				"projet_numero" : "33",
-				"porteur_collectif" : "association ARBAL + CLUB Foot ACA",
-				"projet_sous_theme" : null,
-				"projet_description" : "embellir le stade pour améliorer l'image lors des réception des visiteurs",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.806731004336329, 43.94151776990323 ]
-			},
-			"properties" : {
-				"id" : 92,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Aménagement du pont avenue de monclar",
-				"projet_localisation" : "pont avenue de monclar",
-				"projet_secteur" : "ouest",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : null,
-				"projet_numero" : "35",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "\nPropositions 2018 :\nnettoyage complet du pont\nrénovation des trottoirs\n",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.821805998792401, 43.945196076671145 ]
-			},
-			"properties" : {
-				"id" : 57,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Plantation d'arbres hautes tiges avenue St Jean",
-				"projet_localisation" : "avenue st Jean",
-				"projet_secteur" : "Nord",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : null,
-				"projet_numero" : "01",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "aménagement de cette avenue avec 6 à 8 arbres supplémentaires",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
 		{
 			"type" : "Feature",
 			"geometry" : {
@@ -160,8 +10,8 @@
 			},
 			"properties" : {
 				"id" : 98,
-				"meta_datcreat" : "20181022170643.632991",
-				"meta_datmaj" : "20181022174048.387657",
+				"meta_datcreat" : "20181022170643",
+				"meta_datmaj" : "20181022174048",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -186,12 +36,72 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.821805998792401, 43.945196076671145 ]
+			},
+			"properties" : {
+				"id" : 57,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Plantation d'arbres hautes tiges avenue St Jean",
+				"projet_localisation" : "avenue st Jean",
+				"projet_secteur" : "secteur 1",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : null,
+				"projet_numero" : "01",
+				"porteur_collectif" : null,
+				"projet_sous_theme" : null,
+				"projet_description" : "aménagement de cette avenue avec 6 à 8 arbres supplémentaires",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.806731004336329, 43.94151776990323 ]
+			},
+			"properties" : {
+				"id" : 92,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Aménagement du pont avenue de monclar",
+				"projet_localisation" : "pont avenue de monclar",
+				"projet_secteur" : "secteur 3",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : null,
+				"projet_numero" : "35",
+				"porteur_collectif" : null,
+				"projet_sous_theme" : null,
+				"projet_description" : "\nPropositions 2018 :\nnettoyage complet du pont\nrénovation des trottoirs\n",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8728683935042, 43.93551889144873 ]
 			},
 			"properties" : {
 				"id" : 66,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165911",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -201,7 +111,7 @@
 				"projet_theme" : "aménagement de l'espace public",
 				"projet_libelle" : "Cabane à livres",
 				"projet_localisation" : "dans un jardin public en intra-muros",
-				"projet_secteur" : "intra-muros",
+				"projet_secteur" : "tous secteurs",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
 				"projet_cout" : null,
@@ -216,192 +126,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.812969786609248, 43.95095100488883 ]
-			},
-			"properties" : {
-				"id" : 59,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Cabane à livres",
-				"projet_localisation" : "dans un jardin public en intra-muros",
-				"projet_secteur" : "intra-muros",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : null,
-				"projet_numero" : "02-02",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "Suite à un don important de livresde la part du magasin carrefour en Courtine, du lycée Pasteur, de particuliers, notre association a pensé qu'elle pourrait en faire profiter la population d'Avignon en faisant installer une cabanne à livres",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.804276758475525, 43.9523657070795 ]
-			},
-			"properties" : {
-				"id" : 97,
-				"meta_datcreat" : "20181022170643.632991",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Aménagement esplanade boulevard du Rhône",
-				"projet_localisation" : "Esplanade boulevard du Rhône",
-				"projet_secteur" : "intra-muros",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : null,
-				"projet_numero" : "12",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "Revalorisation du site entre le Pont St Bénézet et le pont daladier :\nproposition de plantations d'arbres, nouvel éclairage",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.820251536221946, 43.93512038769662 ]
-			},
-			"properties" : {
-				"id" : 62,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Cabane à livres",
-				"projet_localisation" : "dans un jardin public en intra-muros",
-				"projet_secteur" : "intra-muros",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : null,
-				"projet_numero" : "02-05",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "Suite à un don important de livresde la part du magasin carrefour en Courtine, du lycée Pasteur, de particuliers, notre association a pensé qu'elle pourrait en faire profiter la population d'Avignon en faisant installer une cabanne à livres",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.844766988363201, 43.94555187859449 ]
-			},
-			"properties" : {
-				"id" : 63,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Cabane à livres",
-				"projet_localisation" : "dans un jardin public en intra-muros",
-				"projet_secteur" : "intra-muros",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : null,
-				"projet_numero" : "02-06",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "Suite à un don important de livresde la part du magasin carrefour en Courtine, du lycée Pasteur, de particuliers, notre association a pensé qu'elle pourrait en faire profiter la population d'Avignon en faisant installer une cabanne à livres",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.795276320777871, 43.95378760062111 ]
-			},
-			"properties" : {
-				"id" : 58,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Cabane à livres",
-				"projet_localisation" : "dans un jardin public en intra-muros",
-				"projet_secteur" : "intra-muros",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : null,
-				"projet_numero" : "02-01",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "Suite à un don important de livresde la part du magasin carrefour en Courtine, du lycée Pasteur, de particuliers, notre association a pensé qu'elle pourrait en faire profiter la population d'Avignon en faisant installer une cabanne à livres",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.813326794173929, 43.94182228133409 ]
-			},
-			"properties" : {
-				"id" : 89,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Passage sous voie ferrée avenue des Sources",
-				"projet_localisation" : "passage sous la voie ferrée entre le 8 et le 10 avenue des sources ",
-				"projet_secteur" : "nord rocade",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : null,
-				"projet_numero" : "31",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "sécurisation du lieu",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 4.808609126466215, 43.952900894539624 ]
 			},
 			"properties" : {
 				"id" : 102,
-				"meta_datcreat" : "20181022170643.632991",
-				"meta_datmaj" : "20181022174048.387657",
+				"meta_datcreat" : "20181022170643",
+				"meta_datmaj" : "20181022174048",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -430,8 +160,8 @@
 			},
 			"properties" : {
 				"id" : 103,
-				"meta_datcreat" : "20181022170643.632991",
-				"meta_datmaj" : "20181022174048.387657",
+				"meta_datcreat" : "20181022170643",
+				"meta_datmaj" : "20181022174048",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -456,42 +186,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.85467421563432, 43.94512147583296 ]
+				"coordinates" : [ 4.795276320777871, 43.95378760062111 ]
 			},
 			"properties" : {
-				"id" : 75,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "aménagement de l'échangeur de l'amandier",
-				"projet_localisation" : "rond point de l'amandier",
-				"projet_secteur" : "st chamand",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : 15000,
-				"projet_numero" : "13-01",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "réaménagement complet : fontaine à jet d'eau, plantation olivier, nouvel éclairage, jeux de lumirère de couleur\nNotre ville doit être une ville spectacle",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.828328946162998, 43.94775294566964 ]
-			},
-			"properties" : {
-				"id" : 60,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
+				"id" : 58,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165911",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -501,11 +201,71 @@
 				"projet_theme" : "aménagement de l'espace public",
 				"projet_libelle" : "Cabane à livres",
 				"projet_localisation" : "dans un jardin public en intra-muros",
-				"projet_secteur" : "intra-muros",
+				"projet_secteur" : "tous secteurs",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
 				"projet_cout" : null,
-				"projet_numero" : "02-03",
+				"projet_numero" : "02-01",
+				"porteur_collectif" : null,
+				"projet_sous_theme" : null,
+				"projet_description" : "Suite à un don important de livresde la part du magasin carrefour en Courtine, du lycée Pasteur, de particuliers, notre association a pensé qu'elle pourrait en faire profiter la population d'Avignon en faisant installer une cabanne à livres",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.812969786609248, 43.95095100488883 ]
+			},
+			"properties" : {
+				"id" : 59,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165911",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Cabane à livres",
+				"projet_localisation" : "dans un jardin public en intra-muros",
+				"projet_secteur" : "tous secteurs",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : null,
+				"projet_numero" : "02-02",
+				"porteur_collectif" : null,
+				"projet_sous_theme" : null,
+				"projet_description" : "Suite à un don important de livresde la part du magasin carrefour en Courtine, du lycée Pasteur, de particuliers, notre association a pensé qu'elle pourrait en faire profiter la population d'Avignon en faisant installer une cabanne à livres",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.820251536221946, 43.93512038769662 ]
+			},
+			"properties" : {
+				"id" : 62,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165911",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Cabane à livres",
+				"projet_localisation" : "dans un jardin public en intra-muros",
+				"projet_secteur" : "tous secteurs",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : null,
+				"projet_numero" : "02-05",
 				"porteur_collectif" : null,
 				"projet_sous_theme" : null,
 				"projet_description" : "Suite à un don important de livresde la part du magasin carrefour en Courtine, du lycée Pasteur, de particuliers, notre association a pensé qu'elle pourrait en faire profiter la population d'Avignon en faisant installer une cabanne à livres",
@@ -520,8 +280,8 @@
 			},
 			"properties" : {
 				"id" : 104,
-				"meta_datcreat" : "20181022170643.632991",
-				"meta_datmaj" : "20181022174048.387657",
+				"meta_datcreat" : "20181022170643",
+				"meta_datmaj" : "20181022174048",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -550,8 +310,8 @@
 			},
 			"properties" : {
 				"id" : 67,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165658",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -561,7 +321,7 @@
 				"projet_theme" : "aménagement de l'espace public",
 				"projet_libelle" : "Passage sécurisé pour piétons landaux, handicapés, vélos",
 				"projet_localisation" : "avenue de la synagogue",
-				"projet_secteur" : "nord",
+				"projet_secteur" : "secteur 1",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
 				"projet_cout" : 85000,
@@ -580,8 +340,8 @@
 			},
 			"properties" : {
 				"id" : 76,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165658",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -591,7 +351,7 @@
 				"projet_theme" : "solidarité enfance jeunesse",
 				"projet_libelle" : "City Stade à montfavet",
 				"projet_localisation" : "Parc de la cantonne",
-				"projet_secteur" : "Montfavet",
+				"projet_secteur" : "secteur 2",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
 				"projet_cout" : 90000,
@@ -606,12 +366,72 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.828328946162998, 43.94775294566964 ]
+			},
+			"properties" : {
+				"id" : 60,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165911",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Cabane à livres",
+				"projet_localisation" : "dans un jardin public en intra-muros",
+				"projet_secteur" : "tous secteurs",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : null,
+				"projet_numero" : "02-03",
+				"porteur_collectif" : null,
+				"projet_sous_theme" : null,
+				"projet_description" : "Suite à un don important de livresde la part du magasin carrefour en Courtine, du lycée Pasteur, de particuliers, notre association a pensé qu'elle pourrait en faire profiter la population d'Avignon en faisant installer une cabanne à livres",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.85467421563432, 43.94512147583296 ]
+			},
+			"properties" : {
+				"id" : 75,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121170206",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "aménagement de l'échangeur de l'amandier",
+				"projet_localisation" : "rond point de l'amandier",
+				"projet_secteur" : "secteur 2",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : 15000,
+				"projet_numero" : "13-01",
+				"porteur_collectif" : null,
+				"projet_sous_theme" : null,
+				"projet_description" : "réaménagement complet : fontaine à jet d'eau, plantation olivier, nouvel éclairage, jeux de lumirère de couleur\nNotre ville doit être une ville spectacle",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8379849248869755, 43.950793838586904 ]
 			},
 			"properties" : {
 				"id" : 109,
-				"meta_datcreat" : "20181022171125.832356",
-				"meta_datmaj" : "20181022174048.387657",
+				"meta_datcreat" : "20181022171125",
+				"meta_datmaj" : "20181022174048",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -636,132 +456,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.845172867827802, 43.92672031385114 ]
-			},
-			"properties" : {
-				"id" : 110,
-				"meta_datcreat" : "20181022171125.832356",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "aménagement de l'échangeur de l'amandier",
-				"projet_localisation" : "rond point de l'amandier",
-				"projet_secteur" : "st chamand",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : 15000,
-				"projet_numero" : "13-02",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "réaménagement complet : fontaine à jet d'eau, plantation olivier, nouvel éclairage, jeux de lumirère de couleur\nNotre ville doit être une ville spectacle",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.804938008763993, 43.95006485152662 ]
-			},
-			"properties" : {
-				"id" : 70,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "mode de déplacement doux",
-				"projet_libelle" : "Suppression du stationnement",
-				"projet_localisation" : "rue racine",
-				"projet_secteur" : "intra-muros",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : 30000,
-				"projet_numero" : "06",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "suppression du stationnement voitures sur le trottoir",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.822155168729195, 43.92941157917378 ]
-			},
-			"properties" : {
-				"id" : 64,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Cabane à livres",
-				"projet_localisation" : "dans un jardin public en intra-muros",
-				"projet_secteur" : "intra-muros",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : null,
-				"projet_numero" : "02-07",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "Suite à un don important de livresde la part du magasin carrefour en Courtine, du lycée Pasteur, de particuliers, notre association a pensé qu'elle pourrait en faire profiter la population d'Avignon en faisant installer une cabanne à livres",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.84495, 43.93214300002233 ]
-			},
-			"properties" : {
-				"id" : 65,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Cabane à livres",
-				"projet_localisation" : "dans un jardin public en intra-muros",
-				"projet_secteur" : "intra-muros",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : null,
-				"projet_numero" : "02-08",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "Suite à un don important de livresde la part du magasin carrefour en Courtine, du lycée Pasteur, de particuliers, notre association a pensé qu'elle pourrait en faire profiter la population d'Avignon en faisant installer une cabanne à livres",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 4.826528448063702, 43.923910019945936 ]
 			},
 			"properties" : {
 				"id" : 82,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121170206",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -771,7 +471,7 @@
 				"projet_theme" : "aménagement de l'espace public",
 				"projet_libelle" : "aire de jeux pour enfants",
 				"projet_localisation" : "quartier des tireuses de soie",
-				"projet_secteur" : "sud rocade",
+				"projet_secteur" : "secteur 3",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
 				"projet_cout" : 60000,
@@ -790,8 +490,8 @@
 			},
 			"properties" : {
 				"id" : 94,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121170206",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -801,7 +501,7 @@
 				"projet_theme" : "aménagement de l'espace public",
 				"projet_libelle" : "Avenir les Olivades",
 				"projet_localisation" : "Champvert ou cour louis Valayer",
-				"projet_secteur" : "sud rocade",
+				"projet_secteur" : "secteur 3",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
 				"projet_cout" : 25000,
@@ -816,59 +516,29 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.818306725873857, 43.95190211958779 ]
+				"coordinates" : [ 4.804938008763993, 43.95006485152662 ]
 			},
 			"properties" : {
-				"id" : 71,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
+				"id" : 70,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165658",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
 				"meta_genealogie" : null,
 				"meta_actif" : true,
 				"projet_millesime" : "2018",
-				"projet_theme" : "sport / loisirs",
-				"projet_libelle" : "Caniparc",
-				"projet_localisation" : "St Lazare",
-				"projet_secteur" : "intra-muros",
+				"projet_theme" : "mode de déplacement doux",
+				"projet_libelle" : "Suppression du stationnement",
+				"projet_localisation" : "rue racine",
+				"projet_secteur" : "secteur 1",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
-				"projet_cout" : 10000,
-				"projet_numero" : "07",
-				"porteur_collectif" : "Collectif des animaux d'Avignon",
-				"projet_sous_theme" : null,
-				"projet_description" : "Aménagement d'un caniparc à la porte St lazare en face du commissariat",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.871563945139016, 43.934253350334025 ]
-			},
-			"properties" : {
-				"id" : 78,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Travaux espace Scalata",
-				"projet_localisation" : "Espace scalata chemin des paroissiens (jouxte le centre social)",
-				"projet_secteur" : "Montfavet",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : 60000,
-				"projet_numero" : "16",
+				"projet_cout" : 30000,
+				"projet_numero" : "06",
 				"porteur_collectif" : null,
 				"projet_sous_theme" : null,
-				"projet_description" : "l'espace situé en contre bas de la route avec une surface d'environ 400 m² est inutilisé.\nPour y accéder on doit descendre par des escaliers, ceux-ci pourraient servir de gradins\nLes travaux à réaliser sont : construction d'un mur acoustique pour avoir un retour sonore et aussi pour délimiter le lieu par rapport à son environnement ",
+				"projet_description" : "suppression du stationnement voitures sur le trottoir",
 				"nom_fic" : "84007-budgetParticipatif2018"
 			}
 		},
@@ -876,102 +546,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.813261349033124, 43.94198069380257 ]
+				"coordinates" : [ 4.822155168729195, 43.92941157917378 ]
 			},
 			"properties" : {
-				"id" : 88,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Aménagement du passage sous voie ferrée entre 10 et 12",
-				"projet_localisation" : "passage sous la voie ferrée entre le 8 et le 10 avenue des sources ",
-				"projet_secteur" : "nord rocade",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : 120000,
-				"projet_numero" : "30",
-				"porteur_collectif" : "Continuité du collectif Magnanen",
-				"projet_sous_theme" : null,
-				"projet_description" : "rendre salubre ce passage sombre en journée ralentir les voitures qui ne respectent pas la limitation à 30 km/h",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.829308512390406, 43.922715839533396 ]
-			},
-			"properties" : {
-				"id" : 85,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Améliorer notre environnement",
-				"projet_localisation" : "rue des lavandes\nallée Martial, au bord du canal du puy\nplace de l'arrêt du bus ",
-				"projet_secteur" : "sud rocade",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : 50000,
-				"projet_numero" : "26",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "fleurissement (dont lavandes) et plantations, bancs publics, aménagement d'une place qui est à l'état de terrain vague et dans laquelle il y a des rodéos, on pourrait l'appeler \"place des Peintres\" car exposition temporaire sur un après-midi s'y est déjà déroulé",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.823208874363563, 43.926651831143204 ]
-			},
-			"properties" : {
-				"id" : 86,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Amélioration du Parc de la Murette",
-				"projet_localisation" : "Parc de la Murette et résidence Les Sources Sud",
-				"projet_secteur" : "sud rocade",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : 60000,
-				"projet_numero" : "27",
-				"porteur_collectif" : null,
-				"projet_sous_theme" : null,
-				"projet_description" : "placer des poubelles pour limiter le dépôts de vestiges de nourritures et de bouteilles ou canettes\ninstallation de bacs dans le parc canin\npourquoi ne pas proposer aux paysans de laisser patûrer leurs troupeaux. Ce serait efficace et écologique dans le parc.",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.804673059445219, 43.937854280084835 ]
-			},
-			"properties" : {
-				"id" : 61,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
+				"id" : 64,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165911",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -981,11 +561,11 @@
 				"projet_theme" : "aménagement de l'espace public",
 				"projet_libelle" : "Cabane à livres",
 				"projet_localisation" : "dans un jardin public en intra-muros",
-				"projet_secteur" : "intra-muros",
+				"projet_secteur" : "tous secteurs",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
 				"projet_cout" : null,
-				"projet_numero" : "02-04",
+				"projet_numero" : "02-07",
 				"porteur_collectif" : null,
 				"projet_sous_theme" : null,
 				"projet_description" : "Suite à un don important de livresde la part du magasin carrefour en Courtine, du lycée Pasteur, de particuliers, notre association a pensé qu'elle pourrait en faire profiter la population d'Avignon en faisant installer une cabanne à livres",
@@ -996,29 +576,59 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.8250845529436575, 43.92715159556134 ]
+				"coordinates" : [ 4.84495, 43.93214300002233 ]
 			},
 			"properties" : {
-				"id" : 84,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
+				"id" : 65,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165911",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
 				"meta_genealogie" : null,
 				"meta_actif" : true,
 				"projet_millesime" : "2018",
-				"projet_theme" : "sport / loisirs",
-				"projet_libelle" : "Installation d'agrès au clos de la murette",
-				"projet_localisation" : "clos de la murette",
-				"projet_secteur" : "sud rocade",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Cabane à livres",
+				"projet_localisation" : "dans un jardin public en intra-muros",
+				"projet_secteur" : "tous secteurs",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
-				"projet_cout" : 20000,
-				"projet_numero" : "24",
+				"projet_cout" : null,
+				"projet_numero" : "02-08",
 				"porteur_collectif" : null,
 				"projet_sous_theme" : null,
-				"projet_description" : "créer un parcours sportif",
+				"projet_description" : "Suite à un don important de livresde la part du magasin carrefour en Courtine, du lycée Pasteur, de particuliers, notre association a pensé qu'elle pourrait en faire profiter la population d'Avignon en faisant installer une cabanne à livres",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.845172867827802, 43.92672031385114 ]
+			},
+			"properties" : {
+				"id" : 110,
+				"meta_datcreat" : "20181022171125",
+				"meta_datmaj" : "20190121170206",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "aménagement de l'échangeur de l'amandier",
+				"projet_localisation" : "rond point de l'amandier",
+				"projet_secteur" : "secteur 2",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : 15000,
+				"projet_numero" : "13-02",
+				"porteur_collectif" : null,
+				"projet_sous_theme" : null,
+				"projet_description" : "réaménagement complet : fontaine à jet d'eau, plantation olivier, nouvel éclairage, jeux de lumirère de couleur\nNotre ville doit être une ville spectacle",
 				"nom_fic" : "84007-budgetParticipatif2018"
 			}
 		},
@@ -1031,7 +641,7 @@
 			"properties" : {
 				"id" : 87,
 				"meta_datcreat" : "20181022152424",
-				"meta_datmaj" : "20190117160333.764543",
+				"meta_datmaj" : "20190117160333",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1056,29 +666,89 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.88155390524926, 43.90740517930003 ]
+				"coordinates" : [ 4.818306725873857, 43.95190211958779 ]
 			},
 			"properties" : {
-				"id" : 77,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20181022174048.387657",
+				"id" : 71,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165658",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
 				"meta_genealogie" : null,
 				"meta_actif" : true,
 				"projet_millesime" : "2018",
-				"projet_theme" : "environnement",
-				"projet_libelle" : "replantation des arbres d'alignement du chemin de la castelette face au lycée pétrarque à cantarel",
-				"projet_localisation" : "chemin de la castelette en bordure de voie",
-				"projet_secteur" : "Montfavet",
+				"projet_theme" : "sport / loisirs",
+				"projet_libelle" : "Caniparc",
+				"projet_localisation" : "St Lazare",
+				"projet_secteur" : "secteur 1",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : 10000,
+				"projet_numero" : "07",
+				"porteur_collectif" : "Collectif des animaux d'Avignon",
+				"projet_sous_theme" : null,
+				"projet_description" : "Aménagement d'un caniparc à la porte St lazare en face du commissariat",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.871563945139016, 43.934253350334025 ]
+			},
+			"properties" : {
+				"id" : 78,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Travaux espace Scalata",
+				"projet_localisation" : "Espace scalata chemin des paroissiens (jouxte le centre social)",
+				"projet_secteur" : "secteur 2",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : 60000,
+				"projet_numero" : "16",
+				"porteur_collectif" : null,
+				"projet_sous_theme" : null,
+				"projet_description" : "l'espace situé en contre bas de la route avec une surface d'environ 400 m² est inutilisé.\nPour y accéder on doit descendre par des escaliers, ceux-ci pourraient servir de gradins\nLes travaux à réaliser sont : construction d'un mur acoustique pour avoir un retour sonore et aussi pour délimiter le lieu par rapport à son environnement ",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.804673059445219, 43.937854280084835 ]
+			},
+			"properties" : {
+				"id" : 61,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165911",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Cabane à livres",
+				"projet_localisation" : "dans un jardin public en intra-muros",
+				"projet_secteur" : "tous secteurs",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
 				"projet_cout" : null,
-				"projet_numero" : "15",
+				"projet_numero" : "02-04",
 				"porteur_collectif" : null,
 				"projet_sous_theme" : null,
-				"projet_description" : "remplacement des arbres morts plantés en substitution des platanes eux-mêmes abattus suite à la maladie du chancre coloré\non pourrait les remplacer par des frênes ou érables champêtres",
+				"projet_description" : "Suite à un don important de livresde la part du magasin carrefour en Courtine, du lycée Pasteur, de particuliers, notre association a pensé qu'elle pourrait en faire profiter la population d'Avignon en faisant installer une cabanne à livres",
 				"nom_fic" : "84007-budgetParticipatif2018"
 			}
 		},
@@ -1086,29 +756,29 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.874067777691139, 43.93524756609327 ]
+				"coordinates" : [ 4.8250845529436575, 43.92715159556134 ]
 			},
 			"properties" : {
-				"id" : 79,
+				"id" : 84,
 				"meta_datcreat" : "20181022152424",
-				"meta_datmaj" : "20181022174048.387657",
+				"meta_datmaj" : "20190121170206",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
 				"meta_genealogie" : null,
 				"meta_actif" : true,
 				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Panneaux défilants pour l'information des habitants du quartier",
-				"projet_localisation" : "6 panneaux : agroparc (2), st catherine, Vertes Rives/espelido, Broquetons, gare/souspirous",
-				"projet_secteur" : "Montfavet",
+				"projet_theme" : "sport / loisirs",
+				"projet_libelle" : "Installation d'agrès au clos de la murette",
+				"projet_localisation" : "clos de la murette",
+				"projet_secteur" : "secteur 3",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
-				"projet_cout" : 40000,
-				"projet_numero" : "17-01",
-				"porteur_collectif" : "Conseil de Quartier de Montfavet",
+				"projet_cout" : 20000,
+				"projet_numero" : "24",
+				"porteur_collectif" : null,
 				"projet_sous_theme" : null,
-				"projet_description" : "compléter le projet initial retenu pour l'année 2017 : pouvant servir autant en mairie centre qu'en mairie de Montfavet",
+				"projet_description" : "créer un parcours sportif",
 				"nom_fic" : "84007-budgetParticipatif2018"
 			}
 		},
@@ -1116,12 +786,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.872804574625322, 43.932725073703075 ]
+				"coordinates" : [ 4.829308512390406, 43.922715839533396 ]
 			},
 			"properties" : {
-				"id" : 113,
-				"meta_datcreat" : "20181022172510.74709",
-				"meta_datmaj" : "20181022174048.387657",
+				"id" : 85,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121170206",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1129,16 +799,16 @@
 				"meta_actif" : true,
 				"projet_millesime" : "2018",
 				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Panneaux défilants pour l'information des habitants du quartier",
-				"projet_localisation" : "6 panneaux : agroparc (2), st catherine, Vertes Rives/espelido, Broquetons, gare/souspirous",
-				"projet_secteur" : "Montfavet",
+				"projet_libelle" : "Améliorer notre environnement",
+				"projet_localisation" : "rue des lavandes\nallée Martial, au bord du canal du puy\nplace de l'arrêt du bus ",
+				"projet_secteur" : "secteur 3",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
-				"projet_cout" : 40000,
-				"projet_numero" : "17-02",
-				"porteur_collectif" : "Conseil de Quartier de Montfavet",
+				"projet_cout" : 50000,
+				"projet_numero" : "26",
+				"porteur_collectif" : null,
 				"projet_sous_theme" : null,
-				"projet_description" : "compléter le projet initial retenu pour l'année 2017 : pouvant servir autant en mairie centre qu'en mairie de Montfavet",
+				"projet_description" : "fleurissement (dont lavandes) et plantations, bancs publics, aménagement d'une place qui est à l'état de terrain vague et dans laquelle il y a des rodéos, on pourrait l'appeler \"place des Peintres\" car exposition temporaire sur un après-midi s'y est déjà déroulé",
 				"nom_fic" : "84007-budgetParticipatif2018"
 			}
 		},
@@ -1146,12 +816,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.875107533496277, 43.926610244021056 ]
+				"coordinates" : [ 4.823208874363563, 43.926651831143204 ]
 			},
 			"properties" : {
-				"id" : 114,
-				"meta_datcreat" : "20181022172510.74709",
-				"meta_datmaj" : "20181022174048.387657",
+				"id" : 86,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121170206",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1159,16 +829,16 @@
 				"meta_actif" : true,
 				"projet_millesime" : "2018",
 				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Panneaux défilants pour l'information des habitants du quartier",
-				"projet_localisation" : "6 panneaux : agroparc (2), st catherine, Vertes Rives/espelido, Broquetons, gare/souspirous",
-				"projet_secteur" : "Montfavet",
+				"projet_libelle" : "Amélioration du Parc de la Murette",
+				"projet_localisation" : "Parc de la Murette et résidence Les Sources Sud",
+				"projet_secteur" : "secteur 3",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
-				"projet_cout" : 40000,
-				"projet_numero" : "17-03",
-				"porteur_collectif" : "Conseil de Quartier de Montfavet",
+				"projet_cout" : 60000,
+				"projet_numero" : "27",
+				"porteur_collectif" : null,
 				"projet_sous_theme" : null,
-				"projet_description" : "compléter le projet initial retenu pour l'année 2017 : pouvant servir autant en mairie centre qu'en mairie de Montfavet",
+				"projet_description" : "placer des poubelles pour limiter le dépôts de vestiges de nourritures et de bouteilles ou canettes\ninstallation de bacs dans le parc canin\npourquoi ne pas proposer aux paysans de laisser patûrer leurs troupeaux. Ce serait efficace et écologique dans le parc.",
 				"nom_fic" : "84007-budgetParticipatif2018"
 			}
 		},
@@ -1180,8 +850,8 @@
 			},
 			"properties" : {
 				"id" : 124,
-				"meta_datcreat" : "20181022173817.615321",
-				"meta_datmaj" : "20181022174048.387657",
+				"meta_datcreat" : "20181022173817",
+				"meta_datmaj" : "20181022174048",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1206,89 +876,29 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.884805081462113, 43.911531232843636 ]
+				"coordinates" : [ 4.88155390524926, 43.90740517930003 ]
 			},
 			"properties" : {
-				"id" : 115,
-				"meta_datcreat" : "20181022172510.74709",
-				"meta_datmaj" : "20181022174048.387657",
+				"id" : 77,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165658",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
 				"meta_genealogie" : null,
 				"meta_actif" : true,
 				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Panneaux défilants pour l'information des habitants du quartier",
-				"projet_localisation" : "6 panneaux : agroparc (2), st catherine, Vertes Rives/espelido, Broquetons, gare/souspirous",
-				"projet_secteur" : "Montfavet",
+				"projet_theme" : "environnement",
+				"projet_libelle" : "replantation des arbres d'alignement du chemin de la castelette face au lycée pétrarque à cantarel",
+				"projet_localisation" : "chemin de la castelette en bordure de voie",
+				"projet_secteur" : "secteur 2",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
-				"projet_cout" : 40000,
-				"projet_numero" : "17-04",
-				"porteur_collectif" : "Conseil de Quartier de Montfavet",
+				"projet_cout" : null,
+				"projet_numero" : "15",
+				"porteur_collectif" : null,
 				"projet_sous_theme" : null,
-				"projet_description" : "compléter le projet initial retenu pour l'année 2017 : pouvant servir autant en mairie centre qu'en mairie de Montfavet",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.889493252819068, 43.915897680960285 ]
-			},
-			"properties" : {
-				"id" : 116,
-				"meta_datcreat" : "20181022172510.74709",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Panneaux défilants pour l'information des habitants du quartier",
-				"projet_localisation" : "6 panneaux : agroparc (2), st catherine, Vertes Rives/espelido, Broquetons, gare/souspirous",
-				"projet_secteur" : "Montfavet",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : 40000,
-				"projet_numero" : "17-05",
-				"porteur_collectif" : "Conseil de Quartier de Montfavet",
-				"projet_sous_theme" : null,
-				"projet_description" : "compléter le projet initial retenu pour l'année 2017 : pouvant servir autant en mairie centre qu'en mairie de Montfavet",
-				"nom_fic" : "84007-budgetParticipatif2018"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.873576153663006, 43.938460165111515 ]
-			},
-			"properties" : {
-				"id" : 117,
-				"meta_datcreat" : "20181022172510.74709",
-				"meta_datmaj" : "20181022174048.387657",
-				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
-				"meta_insee" : "84007",
-				"meta_siren" : "218400075",
-				"meta_genealogie" : null,
-				"meta_actif" : true,
-				"projet_millesime" : "2018",
-				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Panneaux défilants pour l'information des habitants du quartier",
-				"projet_localisation" : "6 panneaux : agroparc (2), st catherine, Vertes Rives/espelido, Broquetons, gare/souspirous",
-				"projet_secteur" : "Montfavet",
-				"projet_statut" : "mis au vote",
-				"meta_licence" : "LO",
-				"projet_cout" : 40000,
-				"projet_numero" : "17-06",
-				"porteur_collectif" : "Conseil de Quartier de Montfavet",
-				"projet_sous_theme" : null,
-				"projet_description" : "compléter le projet initial retenu pour l'année 2017 : pouvant servir autant en mairie centre qu'en mairie de Montfavet",
+				"projet_description" : "remplacement des arbres morts plantés en substitution des platanes eux-mêmes abattus suite à la maladie du chancre coloré\non pourrait les remplacer par des frênes ou érables champêtres",
 				"nom_fic" : "84007-budgetParticipatif2018"
 			}
 		},
@@ -1300,8 +910,8 @@
 			},
 			"properties" : {
 				"id" : 118,
-				"meta_datcreat" : "20181022172510.74709",
-				"meta_datmaj" : "20181022174048.387657",
+				"meta_datcreat" : "20181022172510",
+				"meta_datmaj" : "20181022174048",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1330,8 +940,8 @@
 			},
 			"properties" : {
 				"id" : 122,
-				"meta_datcreat" : "20181022173525.774463",
-				"meta_datmaj" : "20181022174048.387657",
+				"meta_datcreat" : "20181022173525",
+				"meta_datmaj" : "20181022174048",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1356,12 +966,12 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.8434977829515775, 43.949136613351286 ]
+				"coordinates" : [ 4.873576153663006, 43.938460165111515 ]
 			},
 			"properties" : {
-				"id" : 126,
-				"meta_datcreat" : "20181107164449.560486",
-				"meta_datmaj" : "20181107172143.708343",
+				"id" : 117,
+				"meta_datcreat" : "20181022172510",
+				"meta_datmaj" : "20190121165658",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1369,16 +979,16 @@
 				"meta_actif" : true,
 				"projet_millesime" : "2018",
 				"projet_theme" : "aménagement de l'espace public",
-				"projet_libelle" : "Aménagement espace autour de l'école de Massillargues",
-				"projet_localisation" : "Ecole Massillargues",
-				"projet_secteur" : "nord",
+				"projet_libelle" : "Panneaux défilants pour l'information des habitants du quartier",
+				"projet_localisation" : "6 panneaux : agroparc (2), st catherine, Vertes Rives/espelido, Broquetons, gare/souspirous",
+				"projet_secteur" : "secteur 2",
 				"projet_statut" : "mis au vote",
 				"meta_licence" : "LO",
-				"projet_cout" : null,
-				"projet_numero" : "46",
-				"porteur_collectif" : null,
+				"projet_cout" : 40000,
+				"projet_numero" : "17-06",
+				"porteur_collectif" : "Conseil de Quartier de Montfavet",
 				"projet_sous_theme" : null,
-				"projet_description" : "Rendre la rue André Le Nôtre à ses riverains, créer un parc ludique pour les enfants de l’école Massillargues et  aménager  une  traversée  piétonne  sécurisée  et  colorée  sur  la  rue  René  Cassin.  Expérimenter  une  zone  de dépose-minute « Bise et Hop » concertée avec les parents d’élèves, l’école et les enfants. L’école Massillargues dispose aujourd’hui d’un atout contrairement à d’autres écoles où l’entrée est tournée vers de grandes routes à forte circulation. L’idée ici est de profiter de la configuration de l’entrée de l’école pour offrir aux enfants un parvis arboré, non goudronné et implémenté de jeux adaptés à leur âge. Implantation de radars pédagogiques aux abords de la traversée piétonne, d’assises modulaires colorées en bois et d’arceaux vélos sur le parvis, de jeux dans le parc.",
+				"projet_description" : "compléter le projet initial retenu pour l'année 2017 : pouvant servir autant en mairie centre qu'en mairie de Montfavet",
 				"nom_fic" : "84007-budgetParticipatif2018"
 			}
 		},
@@ -1391,7 +1001,7 @@
 			"properties" : {
 				"id" : 83,
 				"meta_datcreat" : "20181022152424",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1421,7 +1031,7 @@
 			"properties" : {
 				"id" : 91,
 				"meta_datcreat" : "20181022152424",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1451,7 +1061,7 @@
 			"properties" : {
 				"id" : 119,
 				"meta_datcreat" : "20181022173041",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1481,7 +1091,7 @@
 			"properties" : {
 				"id" : 50,
 				"meta_datcreat" : "20181022152424",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1510,8 +1120,8 @@
 			},
 			"properties" : {
 				"id" : 69,
-				"meta_datcreat" : "20181022152424.574055",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1541,7 +1151,7 @@
 			"properties" : {
 				"id" : 95,
 				"meta_datcreat" : "20181022152424",
-				"meta_datmaj" : "20181226095717.133573",
+				"meta_datmaj" : "20181226095717",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1571,7 +1181,7 @@
 			"properties" : {
 				"id" : 99,
 				"meta_datcreat" : "20181022170643",
-				"meta_datmaj" : "20181226095717.133573",
+				"meta_datmaj" : "20181226095717",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1601,7 +1211,7 @@
 			"properties" : {
 				"id" : 100,
 				"meta_datcreat" : "20181022170643",
-				"meta_datmaj" : "20181226095717.133573",
+				"meta_datmaj" : "20181226095717",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1631,7 +1241,7 @@
 			"properties" : {
 				"id" : 101,
 				"meta_datcreat" : "20181022170643",
-				"meta_datmaj" : "20181226095717.133573",
+				"meta_datmaj" : "20181226095717",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1661,7 +1271,7 @@
 			"properties" : {
 				"id" : 105,
 				"meta_datcreat" : "20181022170643",
-				"meta_datmaj" : "20181226095717.133573",
+				"meta_datmaj" : "20181226095717",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1691,7 +1301,7 @@
 			"properties" : {
 				"id" : 106,
 				"meta_datcreat" : "20181022170643",
-				"meta_datmaj" : "20181226095717.133573",
+				"meta_datmaj" : "20181226095717",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1721,7 +1331,7 @@
 			"properties" : {
 				"id" : 96,
 				"meta_datcreat" : "20181022170643",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1751,7 +1361,7 @@
 			"properties" : {
 				"id" : 107,
 				"meta_datcreat" : "20181022170643",
-				"meta_datmaj" : "20181226095717.133573",
+				"meta_datmaj" : "20181226095717",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1781,7 +1391,7 @@
 			"properties" : {
 				"id" : 108,
 				"meta_datcreat" : "20181022170643",
-				"meta_datmaj" : "20181226095717.133573",
+				"meta_datmaj" : "20181226095717",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1811,7 +1421,7 @@
 			"properties" : {
 				"id" : 120,
 				"meta_datcreat" : "20181022173041",
-				"meta_datmaj" : "20181226095717.133573",
+				"meta_datmaj" : "20181226095717",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1841,7 +1451,7 @@
 			"properties" : {
 				"id" : 123,
 				"meta_datcreat" : "20181022173525",
-				"meta_datmaj" : "20181226095717.133573",
+				"meta_datmaj" : "20181226095717",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1871,7 +1481,7 @@
 			"properties" : {
 				"id" : 125,
 				"meta_datcreat" : "20181022173817",
-				"meta_datmaj" : "20181226095717.133573",
+				"meta_datmaj" : "20181226095717",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1900,8 +1510,8 @@
 			},
 			"properties" : {
 				"id" : 128,
-				"meta_datcreat" : "20190117154649.725226",
-				"meta_datmaj" : "20190117154739.160396",
+				"meta_datcreat" : "20190117154649",
+				"meta_datmaj" : "20190117154739",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1930,8 +1540,8 @@
 			},
 			"properties" : {
 				"id" : 129,
-				"meta_datcreat" : "20190117155008.672144",
-				"meta_datmaj" : "20190117155331.176738",
+				"meta_datcreat" : "20190117155008",
+				"meta_datmaj" : "20190117155331",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1960,8 +1570,8 @@
 			},
 			"properties" : {
 				"id" : 130,
-				"meta_datcreat" : "20190117155331.179622",
-				"meta_datmaj" : "20190117155331.179622",
+				"meta_datcreat" : "20190117155331",
+				"meta_datmaj" : "20190117155331",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -1990,8 +1600,8 @@
 			},
 			"properties" : {
 				"id" : 131,
-				"meta_datcreat" : "20190117155331.179622",
-				"meta_datmaj" : "20190117155331.179622",
+				"meta_datcreat" : "20190117155331",
+				"meta_datmaj" : "20190117155331",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -2021,7 +1631,7 @@
 			"properties" : {
 				"id" : 72,
 				"meta_datcreat" : "20181022152424",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -2051,7 +1661,7 @@
 			"properties" : {
 				"id" : 111,
 				"meta_datcreat" : "20181022171125",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -2081,7 +1691,7 @@
 			"properties" : {
 				"id" : 73,
 				"meta_datcreat" : "20181022152424",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -2111,7 +1721,7 @@
 			"properties" : {
 				"id" : 74,
 				"meta_datcreat" : "20181022152424",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -2141,7 +1751,7 @@
 			"properties" : {
 				"id" : 80,
 				"meta_datcreat" : "20181022152424",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -2171,7 +1781,7 @@
 			"properties" : {
 				"id" : 81,
 				"meta_datcreat" : "20181022152424",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -2201,7 +1811,7 @@
 			"properties" : {
 				"id" : 93,
 				"meta_datcreat" : "20181022152424",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -2231,7 +1841,7 @@
 			"properties" : {
 				"id" : 121,
 				"meta_datcreat" : "20181022173525",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -2261,7 +1871,7 @@
 			"properties" : {
 				"id" : 127,
 				"meta_datcreat" : "20181107172846",
-				"meta_datmaj" : "20190117160148.666738",
+				"meta_datmaj" : "20190117160148",
 				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
 				"meta_insee" : "84007",
 				"meta_siren" : "218400075",
@@ -2279,6 +1889,396 @@
 				"porteur_collectif" : null,
 				"projet_sous_theme" : null,
 				"projet_description" : "Ce projet coopératif en faveur d’un développement local durable ’attachera à modifier progressivement différents espaces extérieurs et intérieurs de l’école de l’Amandier pour les transformer en supports l’apprentissage et d’expression dans différents domaines, avec à terme la création d’applications numériques ludo-éducatives en lien avec ces espaces. Les réalisations se feront le plus souvent possible en matériaux nobles. Outre les espaces jardins potagers et d’agréments, cultivés en permaculture pour certains, une partie de l’espace extérieur sera aménagé pour devenir un espace d’informations et d’expression in situ autour de la connaissance et de la protection de l’environnement, avec notamment l’affichage de toutes les espèces végétales existantes. Cet espace ouvert, qui s’adresse dans un premier temps à l’ensemble de la communauté éducative de l’école, pour s’étendre progressivement à un public plus large. Un projet pour le quartier afin de développer dans l’avenir un partenariat plus large, notamment avec d’autres écoles du quartier et le tissu associatif local.\n",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.885010661845147, 43.90658972980528 ]
+			},
+			"properties" : {
+				"id" : 13,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Aménagement d'un jardin potager, collectif partagé et famillial",
+				"projet_localisation" : "chemin de la castelette, sur un terrain qui appartient à Haribo ",
+				"projet_secteur" : "secteur 2",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : 150000,
+				"projet_numero" : "22",
+				"porteur_collectif" : "Jardiniers du Jardin de Favet",
+				"projet_sous_theme" : "environnement",
+				"projet_description" : "Aménagement de parcelles de jardins en direction de famille, d'association, de collectif d'habitant en vue de cultiver des potagers et de favoriser les rencontres et la solidarité",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.803374126462899, 43.943599367138575 ]
+			},
+			"properties" : {
+				"id" : 68,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Avignon verdoyante",
+				"projet_localisation" : "rue st charles",
+				"projet_secteur" : "secteur 1",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : null,
+				"projet_numero" : "04",
+				"porteur_collectif" : null,
+				"projet_sous_theme" : null,
+				"projet_description" : "Avignon se transforme, s'embellit avec ses places, ses façades, ses rues piétonnes…. Et si nous faisions encore plus en apportant du vert dans notre ville\nLa 2ème partie de la rue St Charles, longeant le côté de ouest de la poste après le carrefour du BD Raspail trottoir à droite fait office d'ilot sur une longueur de 40 à 50 m . De chaque côté de ce trottoir stationnement de voiture , et si on plantait sur cet ilot quelques arbres.... et si on arborait aussi le trottoir côté poste afin de transformer cette rue en une rue verdoyante, et si on interdisait le stationnement des rues côté poste, cela éviterait que ça serve d'urinoir",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.874067777691139, 43.93524756609327 ]
+			},
+			"properties" : {
+				"id" : 79,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Panneaux défilants pour l'information des habitants du quartier",
+				"projet_localisation" : "6 panneaux : agroparc (2), st catherine, Vertes Rives/espelido, Broquetons, gare/souspirous",
+				"projet_secteur" : "secteur 2",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : 40000,
+				"projet_numero" : "17-01",
+				"porteur_collectif" : "Conseil de Quartier de Montfavet",
+				"projet_sous_theme" : null,
+				"projet_description" : "compléter le projet initial retenu pour l'année 2017 : pouvant servir autant en mairie centre qu'en mairie de Montfavet",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.813261349033124, 43.94198069380257 ]
+			},
+			"properties" : {
+				"id" : 88,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Aménagement du passage sous voie ferrée entre 10 et 12",
+				"projet_localisation" : "passage sous la voie ferrée entre le 8 et le 10 avenue des sources ",
+				"projet_secteur" : "secteur 3",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : 120000,
+				"projet_numero" : "30",
+				"porteur_collectif" : "Continuité du collectif Magnanen",
+				"projet_sous_theme" : null,
+				"projet_description" : "rendre salubre ce passage sombre en journée ralentir les voitures qui ne respectent pas la limitation à 30 km/h",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.813326794173929, 43.94182228133409 ]
+			},
+			"properties" : {
+				"id" : 89,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Passage sous voie ferrée avenue des Sources",
+				"projet_localisation" : "passage sous la voie ferrée entre le 8 et le 10 avenue des sources ",
+				"projet_secteur" : "secteur 3",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : null,
+				"projet_numero" : "31",
+				"porteur_collectif" : null,
+				"projet_sous_theme" : null,
+				"projet_description" : "sécurisation du lieu",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.826704689160189, 43.93531092169307 ]
+			},
+			"properties" : {
+				"id" : 90,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Faire Fresque murale au stade Léon Dulcy",
+				"projet_localisation" : "stade Leon dulcy",
+				"projet_secteur" : "secteur 3",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : null,
+				"projet_numero" : "33",
+				"porteur_collectif" : "association ARBAL + CLUB Foot ACA",
+				"projet_sous_theme" : null,
+				"projet_description" : "embellir le stade pour améliorer l'image lors des réception des visiteurs",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.804276758475525, 43.9523657070795 ]
+			},
+			"properties" : {
+				"id" : 97,
+				"meta_datcreat" : "20181022170643",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Aménagement esplanade boulevard du Rhône",
+				"projet_localisation" : "Esplanade boulevard du Rhône",
+				"projet_secteur" : "secteur 1",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : null,
+				"projet_numero" : "12",
+				"porteur_collectif" : null,
+				"projet_sous_theme" : null,
+				"projet_description" : "Revalorisation du site entre le Pont St Bénézet et le pont daladier :\nproposition de plantations d'arbres, nouvel éclairage",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.872804574625322, 43.932725073703075 ]
+			},
+			"properties" : {
+				"id" : 113,
+				"meta_datcreat" : "20181022172510",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Panneaux défilants pour l'information des habitants du quartier",
+				"projet_localisation" : "6 panneaux : agroparc (2), st catherine, Vertes Rives/espelido, Broquetons, gare/souspirous",
+				"projet_secteur" : "secteur 2",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : 40000,
+				"projet_numero" : "17-02",
+				"porteur_collectif" : "Conseil de Quartier de Montfavet",
+				"projet_sous_theme" : null,
+				"projet_description" : "compléter le projet initial retenu pour l'année 2017 : pouvant servir autant en mairie centre qu'en mairie de Montfavet",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.875107533496277, 43.926610244021056 ]
+			},
+			"properties" : {
+				"id" : 114,
+				"meta_datcreat" : "20181022172510",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Panneaux défilants pour l'information des habitants du quartier",
+				"projet_localisation" : "6 panneaux : agroparc (2), st catherine, Vertes Rives/espelido, Broquetons, gare/souspirous",
+				"projet_secteur" : "secteur 2",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : 40000,
+				"projet_numero" : "17-03",
+				"porteur_collectif" : "Conseil de Quartier de Montfavet",
+				"projet_sous_theme" : null,
+				"projet_description" : "compléter le projet initial retenu pour l'année 2017 : pouvant servir autant en mairie centre qu'en mairie de Montfavet",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.884805081462113, 43.911531232843636 ]
+			},
+			"properties" : {
+				"id" : 115,
+				"meta_datcreat" : "20181022172510",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Panneaux défilants pour l'information des habitants du quartier",
+				"projet_localisation" : "6 panneaux : agroparc (2), st catherine, Vertes Rives/espelido, Broquetons, gare/souspirous",
+				"projet_secteur" : "secteur 2",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : 40000,
+				"projet_numero" : "17-04",
+				"porteur_collectif" : "Conseil de Quartier de Montfavet",
+				"projet_sous_theme" : null,
+				"projet_description" : "compléter le projet initial retenu pour l'année 2017 : pouvant servir autant en mairie centre qu'en mairie de Montfavet",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.889493252819068, 43.915897680960285 ]
+			},
+			"properties" : {
+				"id" : 116,
+				"meta_datcreat" : "20181022172510",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Panneaux défilants pour l'information des habitants du quartier",
+				"projet_localisation" : "6 panneaux : agroparc (2), st catherine, Vertes Rives/espelido, Broquetons, gare/souspirous",
+				"projet_secteur" : "secteur 2",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : 40000,
+				"projet_numero" : "17-05",
+				"porteur_collectif" : "Conseil de Quartier de Montfavet",
+				"projet_sous_theme" : null,
+				"projet_description" : "compléter le projet initial retenu pour l'année 2017 : pouvant servir autant en mairie centre qu'en mairie de Montfavet",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8434977829515775, 43.949136613351286 ]
+			},
+			"properties" : {
+				"id" : 126,
+				"meta_datcreat" : "20181107164449",
+				"meta_datmaj" : "20190121165658",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Aménagement espace autour de l'école de Massillargues",
+				"projet_localisation" : "Ecole Massillargues",
+				"projet_secteur" : "secteur 1",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : null,
+				"projet_numero" : "46",
+				"porteur_collectif" : null,
+				"projet_sous_theme" : null,
+				"projet_description" : "Rendre la rue André Le Nôtre à ses riverains, créer un parc ludique pour les enfants de l’école Massillargues et  aménager  une  traversée  piétonne  sécurisée  et  colorée  sur  la  rue  René  Cassin.  Expérimenter  une  zone  de dépose-minute « Bise et Hop » concertée avec les parents d’élèves, l’école et les enfants. L’école Massillargues dispose aujourd’hui d’un atout contrairement à d’autres écoles où l’entrée est tournée vers de grandes routes à forte circulation. L’idée ici est de profiter de la configuration de l’entrée de l’école pour offrir aux enfants un parvis arboré, non goudronné et implémenté de jeux adaptés à leur âge. Implantation de radars pédagogiques aux abords de la traversée piétonne, d’assises modulaires colorées en bois et d’arceaux vélos sur le parvis, de jeux dans le parc.",
+				"nom_fic" : "84007-budgetParticipatif2018"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.844766988363201, 43.94555187859449 ]
+			},
+			"properties" : {
+				"id" : 63,
+				"meta_datcreat" : "20181022152424",
+				"meta_datmaj" : "20190121165911",
+				"meta_source" : "Mairie Avignon / Pôle Vivre la Ville",
+				"meta_insee" : "84007",
+				"meta_siren" : "218400075",
+				"meta_genealogie" : null,
+				"meta_actif" : true,
+				"projet_millesime" : "2018",
+				"projet_theme" : "aménagement de l'espace public",
+				"projet_libelle" : "Cabane à livres",
+				"projet_localisation" : "dans un jardin public en intra-muros",
+				"projet_secteur" : "tous secteurs",
+				"projet_statut" : "mis au vote",
+				"meta_licence" : "LO",
+				"projet_cout" : null,
+				"projet_numero" : "02-06",
+				"porteur_collectif" : null,
+				"projet_sous_theme" : null,
+				"projet_description" : "Suite à un don important de livresde la part du magasin carrefour en Courtine, du lycée Pasteur, de particuliers, notre association a pensé qu'elle pourrait en faire profiter la population d'Avignon en faisant installer une cabanne à livres",
 				"nom_fic" : "84007-budgetParticipatif2018"
 			}
 		}
