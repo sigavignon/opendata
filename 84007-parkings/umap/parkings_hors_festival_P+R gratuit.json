@@ -1,0 +1,39 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Output",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.7932482116, 43.9507381257 ]
+			},
+			"properties" : {
+				"name" : "PARLING ILE PIOT",
+				"description" : "** P+R gratuit**\nnombre de places : **1100**\n---\n** * Bus vers le centre ville : * ** \nParking surveillé\n** Navettes bus gratuites **\n- Du lundi au vendredi de 7h15 à 20h34\n- Le samedi de 13h03 à 20h34\n(toutes les 10 min.)\n** * A pied vers le centre ville : * ** 13 minutes des remparts"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8226144873, 43.9537677401 ]
+			},
+			"properties" : {
+				"name" : "PARKING DES ITALIENS",
+				"description" : "** P+R gratuit**\nnombre de places : **1400**\n---\n** * Bus vers le centre ville : * ** \nParking surveillé\n** Navettes bus gratuites (CityZen) **\n- toutes les 4 min de 7h à 20h,\n- toutes les 20 minde 20h à minuit\nDu lundi au jeudi de 7h à 22h28,\nVendredi et samedi de 7h à 23h54\nDimanche et jours fériés de 8h à 19h30 (toutes les 30 min.)\n** * A pied vers le centre ville : * ** 4 minutes des remparts"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8448918522, 43.9260462117 ]
+			},
+			"properties" : {
+				"name" : "PARKING RELAIS",
+				"description" : "** P+R gratuit**\nnombre de places : ****\n---"
+			}
+		}
+	]
+}

@@ -1,0 +1,39 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Output",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.87147449, 43.9344996976 ]
+			},
+			"properties" : {
+				"name" : "PARKING ESPACE SCALACTA",
+				"description" : "** P gratuit**\nnombre de places : **0**\n---\n** * Bus vers le centre ville : * ** \n"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.871105377, 43.9349093627 ]
+			},
+			"properties" : {
+				"name" : "PARKING CHARLES FAVIER",
+				"description" : "** P gratuit**\nnombre de places : **0**\n---\n** * Bus vers le centre ville : * ** \n"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8212604794, 43.9421142198 ]
+			},
+			"properties" : {
+				"name" : "PARKING DE L'EPI",
+				"description" : "** P gratuit**\nnombre de places : **45**\n---\n** * Bus vers le centre ville : * ** \nlignes 4 et 9\n** * A pied vers le centre ville : * ** 10 minutes des remparts"
+			}
+		}
+	]
+}

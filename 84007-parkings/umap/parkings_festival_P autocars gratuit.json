@@ -1,0 +1,28 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Output",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8059376455, 43.9530642242 ]
+			},
+			"properties" : {
+				"name" : "PARKING RUE FERRUCE",
+				"description" : "** P autocars gratuit**\nnombre de places : **11**\n---\n** * Bus vers le centre ville : * ** \n\n---\nPERIODE FESTIVAL\n**Fermé aux autocars durant le festival**\nstationnement des autocars au parking P+R Ile Piot (autocars) via le pont de l'Europe\nAUTRES PERIODES\ngratuit"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8039545248, 43.952376129 ]
+			},
+			"properties" : {
+				"name" : "DEPOSE CARS BENEZET",
+				"description" : "** P autocars gratuit**\nnombre de places : **14**\n---\n** * Bus vers le centre ville : * ** \n\n---\nPERIODE FESTIVAL\nParking bus dépose minute - 15 minutes maximum\nau-delà, stationnement des autocars au parking P+R Ile Piot (autocars) via le pont de l'Europe"
+			}
+		}
+	]
+}
