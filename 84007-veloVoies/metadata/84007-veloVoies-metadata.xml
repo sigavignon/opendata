@@ -7,10 +7,10 @@
 		<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre">fre</gmd:LanguageCode>
 	</gmd:language>
 	<gmd:characterSet>
-		<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode" codeListValue="MD_CharacterSetCode_utf8">utf8</gmd:MD_CharacterSetCode>
+		<gmd:MD_CharacterSetCode codeListValue="MD_CharacterSetCode_utf8" codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_CharacterSetCode">MD_CharacterSetCode_utf8</gmd:MD_CharacterSetCode>
 	</gmd:characterSet>
 	<gmd:hierarchyLevel>
-		<gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+		<gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
 	</gmd:hierarchyLevel>
 	<gmd:contact>
 		<gmd:CI_ResponsibleParty>
@@ -19,16 +19,6 @@
 			</gmd:organisationName>
 			<gmd:contactInfo>
 				<gmd:CI_Contact>
-					<gmd:phone>
-						<gmd:CI_Telephone>
-							<gmd:voice>
-								<gco:CharacterString></gco:CharacterString>
-							</gmd:voice>
-							<gmd:facsimile>
-								<gco:CharacterString></gco:CharacterString>
-							</gmd:facsimile>
-						</gmd:CI_Telephone>
-					</gmd:phone>
 					<gmd:address>
 						<gmd:CI_Address>
 							<gmd:deliveryPoint>
@@ -48,13 +38,6 @@
 							</gmd:electronicMailAddress>
 						</gmd:CI_Address>
 					</gmd:address>
-					<gmd:onlineResource>
-						<gmd:CI_OnlineResource>
-							<gmd:linkage>
-								<gmd:URL></gmd:URL>
-							</gmd:linkage>
-						</gmd:CI_OnlineResource>
-					</gmd:onlineResource>
 				</gmd:CI_Contact>
 			</gmd:contactInfo>
 			<gmd:role>
@@ -76,11 +59,14 @@
 			<gmd:referenceSystemIdentifier>
 				<gmd:RS_Identifier>
 					<gmd:code>
-						<gco:CharacterString>urn:ogc:def:crs:EPSG:6.11:2154</gco:CharacterString>
+						<gco:CharacterString>2154</gco:CharacterString>
 					</gmd:code>
 					<gmd:codeSpace>
-						<gco:CharacterString>EPSG</gco:CharacterString>
+						<gco:CharacterString>urn:ogc:def:crs:EPSG:6.11</gco:CharacterString>
 					</gmd:codeSpace>
+					<gmd:version>
+						<gco:CharacterString>6.11</gco:CharacterString>
+					</gmd:version>
 				</gmd:RS_Identifier>
 			</gmd:referenceSystemIdentifier>
 		</gmd:MD_ReferenceSystem>
@@ -90,7 +76,7 @@
 			<gmd:citation>
 				<gmd:CI_Citation>
 					<gmd:title>
-						<gco:CharacterString>Places de parking vélo (arceaux) sur Avignon</gco:CharacterString>
+						<gco:CharacterString>Aménagements cyclables sur Avignon</gco:CharacterString>
 					</gmd:title>
 					<gmd:date>
 						<gmd:CI_Date>
@@ -105,7 +91,7 @@
 					<gmd:date>
 						<gmd:CI_Date>
 							<gmd:date>
-								<gco:Date>2014-09-02</gco:Date>
+								<gco:Date>2012-05-25</gco:Date>
 							</gmd:date>
 							<gmd:dateType>
 								<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
@@ -125,14 +111,14 @@
 					<gmd:identifier>
 						<gmd:MD_Identifier>
 							<gmd:code>
-								<gco:CharacterString>fr-218400075-84007veloArceaux-20190702</gco:CharacterString>
+								<gco:CharacterString>fr-218400075-84007veloSegmentsCyclable-20190702</gco:CharacterString>
 							</gmd:code>
 						</gmd:MD_Identifier>
 					</gmd:identifier>
 				</gmd:CI_Citation>
 			</gmd:citation>
 			<gmd:abstract>
-				<gco:CharacterString>Places de parking vélo (arceaux) sur le domaine public d'Avignon.
+				<gco:CharacterString>Les données sont mises à jour par le service Mobilité de la Ville d'Avignon. Ces données sont actualisées tous les mois vers www.datasud.fr
 Données NON OPPOSABLE
 LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			</gmd:abstract>
@@ -143,16 +129,6 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 					</gmd:organisationName>
 					<gmd:contactInfo>
 						<gmd:CI_Contact>
-							<gmd:phone>
-								<gmd:CI_Telephone>
-									<gmd:voice>
-										<gco:CharacterString></gco:CharacterString>
-									</gmd:voice>
-									<gmd:facsimile>
-										<gco:CharacterString></gco:CharacterString>
-									</gmd:facsimile>
-								</gmd:CI_Telephone>
-							</gmd:phone>
 							<gmd:address>
 								<gmd:CI_Address>
 									<gmd:deliveryPoint>
@@ -172,13 +148,6 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 									</gmd:electronicMailAddress>
 								</gmd:CI_Address>
 							</gmd:address>
-							<gmd:onlineResource>
-								<gmd:CI_OnlineResource>
-									<gmd:linkage>
-										<gmd:URL></gmd:URL>
-									</gmd:linkage>
-								</gmd:CI_OnlineResource>
-							</gmd:onlineResource>
 						</gmd:CI_Contact>
 					</gmd:contactInfo>
 					<gmd:role>
@@ -203,14 +172,14 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			<gmd:descriptiveKeywords>
 				<gmd:MD_Keywords>
 					<gmd:keyword>
-						<gco:CharacterString>parking vélo</gco:CharacterString>
+						<gco:CharacterString>vélo</gco:CharacterString>
 					</gmd:keyword>
 				</gmd:MD_Keywords>
 			</gmd:descriptiveKeywords>
 			<gmd:descriptiveKeywords>
 				<gmd:MD_Keywords>
 					<gmd:keyword>
-						<gco:CharacterString>arceau</gco:CharacterString>
+						<gco:CharacterString>pistes cyclables</gco:CharacterString>
 					</gmd:keyword>
 				</gmd:MD_Keywords>
 			</gmd:descriptiveKeywords>
@@ -218,30 +187,6 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 				<gmd:MD_Keywords>
 					<gmd:keyword>
 						<gco:CharacterString>Réseaux de transport</gco:CharacterString>
-					</gmd:keyword>
-					<gmd:thesaurusName>
-						<gmd:CI_Citation>
-							<gmd:title>
-								<gco:CharacterString>GEMET - INSPIRE Themes</gco:CharacterString>
-							</gmd:title>
-							<gmd:date>
-								<gmd:CI_Date>
-									<gmd:date>
-										<gco:Date>2008-06-01</gco:Date>
-									</gmd:date>
-									<gmd:dateType>
-										<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
-									</gmd:dateType>
-								</gmd:CI_Date>
-							</gmd:date>
-						</gmd:CI_Citation>
-					</gmd:thesaurusName>
-				</gmd:MD_Keywords>
-			</gmd:descriptiveKeywords>
-			<gmd:descriptiveKeywords>
-				<gmd:MD_Keywords>
-					<gmd:keyword>
-						<gco:CharacterString>Services d'utilité publique et services publics</gco:CharacterString>
 					</gmd:keyword>
 					<gmd:thesaurusName>
 						<gmd:CI_Citation>
@@ -280,7 +225,7 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 					<gmd:equivalentScale>
 						<gmd:MD_RepresentativeFraction>
 							<gmd:denominator>
-								<gco:Integer>1000</gco:Integer>
+								<gco:Integer>5000</gco:Integer>
 							</gmd:denominator>
 						</gmd:MD_RepresentativeFraction>
 					</gmd:equivalentScale>
@@ -289,14 +234,8 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			<gmd:language>
 				<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre">fre</gmd:LanguageCode>
 			</gmd:language>
-			<gmd:characterSet>
-				<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode" codeListValue="MD_CharacterSetCode_utf8">utf8</gmd:MD_CharacterSetCode>
-			</gmd:characterSet>
 			<gmd:topicCategory>
 				<gmd:MD_TopicCategoryCode>transportation</gmd:MD_TopicCategoryCode>
-			</gmd:topicCategory>
-			<gmd:topicCategory>
-				<gmd:MD_TopicCategoryCode>utilitiesCommunication</gmd:MD_TopicCategoryCode>
 			</gmd:topicCategory>
 			<gmd:extent>
 				<gmd:EX_Extent>
@@ -306,16 +245,16 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 					<gmd:geographicElement>
 						<gmd:EX_GeographicBoundingBox>
 							<gmd:westBoundLongitude>
-								<gco:Decimal>4.79875615</gco:Decimal>
+								<gco:Decimal>4.7826146</gco:Decimal>
 							</gmd:westBoundLongitude>
 							<gmd:eastBoundLongitude>
-								<gco:Decimal>4.81837736</gco:Decimal>
+								<gco:Decimal>4.89646188</gco:Decimal>
 							</gmd:eastBoundLongitude>
 							<gmd:southBoundLatitude>
-								<gco:Decimal>43.94266215</gco:Decimal>
+								<gco:Decimal>43.90825198</gco:Decimal>
 							</gmd:southBoundLatitude>
 							<gmd:northBoundLatitude>
-								<gco:Decimal>43.95363626</gco:Decimal>
+								<gco:Decimal>43.96509923</gco:Decimal>
 							</gmd:northBoundLatitude>
 						</gmd:EX_GeographicBoundingBox>
 					</gmd:geographicElement>
@@ -328,10 +267,10 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			<gmd:distributionFormat>
 				<gmd:MD_Format>
 					<gmd:name>
-						<gco:CharacterString>CSV</gco:CharacterString>
+						<gco:CharacterString>ESRI Shapefile</gco:CharacterString>
 					</gmd:name>
 					<gmd:version>
-						<gco:CharacterString>None</gco:CharacterString>
+						<gco:CharacterString>1.0</gco:CharacterString>
 					</gmd:version>
 				</gmd:MD_Format>
 			</gmd:distributionFormat>
@@ -339,26 +278,6 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 				<gmd:MD_Format>
 					<gmd:name>
 						<gco:CharacterString>GeoJSON</gco:CharacterString>
-					</gmd:name>
-					<gmd:version>
-						<gco:CharacterString>None</gco:CharacterString>
-					</gmd:version>
-				</gmd:MD_Format>
-			</gmd:distributionFormat>
-			<gmd:distributionFormat>
-				<gmd:MD_Format>
-					<gmd:name>
-						<gco:CharacterString>GeoPackage</gco:CharacterString>
-					</gmd:name>
-					<gmd:version>
-						<gco:CharacterString></gco:CharacterString>
-					</gmd:version>
-				</gmd:MD_Format>
-			</gmd:distributionFormat>
-			<gmd:distributionFormat>
-				<gmd:MD_Format>
-					<gmd:name>
-						<gco:CharacterString>SQLite / Spatialite</gco:CharacterString>
 					</gmd:name>
 					<gmd:version>
 						<gco:CharacterString></gco:CharacterString>
@@ -370,11 +289,8 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 					<gmd:onLine>
 						<gmd:CI_OnlineResource>
 							<gmd:linkage>
-								<gmd:URL>http://u.osmfr.org/m/19934/</gmd:URL>
+								<gmd:URL>http://u.osmfr.org/m/20811/</gmd:URL>
 							</gmd:linkage>
-							<gmd:protocol>
-								<gco:CharacterString>http</gco:CharacterString>
-							</gmd:protocol>
 							<gmd:name>
 								<gco:CharacterString>Visualisation de la carte</gco:CharacterString>
 							</gmd:name>
@@ -385,9 +301,6 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 							<gmd:linkage>
 								<gmd:URL>http://www.avignon.fr</gmd:URL>
 							</gmd:linkage>
-							<gmd:protocol>
-								<gco:CharacterString>http</gco:CharacterString>
-							</gmd:protocol>
 							<gmd:name>
 								<gco:CharacterString>Site institutionnel de la Mairie d'Avignon</gco:CharacterString>
 							</gmd:name>
@@ -402,7 +315,7 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			<gmd:scope>
 				<gmd:DQ_Scope>
 					<gmd:level>
-						<gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+						<gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
 					</gmd:level>
 				</gmd:DQ_Scope>
 			</gmd:scope>
@@ -440,8 +353,7 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			<gmd:lineage>
 				<gmd:LI_Lineage>
 					<gmd:statement>
-						<gco:CharacterString>Les places de parking vélo (arceaux) sont géoréférencées par le service mobilité de la Ville d'Avignon.
-Ces données sont actualisées tous les mois sur la plateforme www.datasud.fr</gco:CharacterString>
+						<gco:CharacterString>Les aménagements cyclables ont été dessinées sur la base du cadastre et d'une orthophoto.</gco:CharacterString>
 					</gmd:statement>
 				</gmd:LI_Lineage>
 			</gmd:lineage>
