@@ -111,7 +111,7 @@
 					<gmd:identifier>
 						<gmd:MD_Identifier>
 							<gmd:code>
-								<gco:CharacterString>fr-218400075-84007pmr-20190822</gco:CharacterString>
+								<gco:CharacterString>fr-218400075-84007placesPMR-20190822</gco:CharacterString>
 							</gmd:code>
 						</gmd:MD_Identifier>
 					</gmd:identifier>
@@ -227,7 +227,7 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 					<gmd:equivalentScale>
 						<gmd:MD_RepresentativeFraction>
 							<gmd:denominator>
-								<gco:Integer>2000</gco:Integer>
+								<gco:Integer>200</gco:Integer>
 							</gmd:denominator>
 						</gmd:MD_RepresentativeFraction>
 					</gmd:equivalentScale>
@@ -272,10 +272,20 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			<gmd:distributionFormat>
 				<gmd:MD_Format>
 					<gmd:name>
-						<gco:CharacterString>ESRI Shapefile</gco:CharacterString>
+						<gco:CharacterString>GeoPackage</gco:CharacterString>
 					</gmd:name>
 					<gmd:version>
-						<gco:CharacterString>1.0</gco:CharacterString>
+						<gco:CharacterString></gco:CharacterString>
+					</gmd:version>
+				</gmd:MD_Format>
+			</gmd:distributionFormat>
+			<gmd:distributionFormat>
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>Spatialite</gco:CharacterString>
+					</gmd:name>
+					<gmd:version>
+						<gco:CharacterString></gco:CharacterString>
 					</gmd:version>
 				</gmd:MD_Format>
 			</gmd:distributionFormat>
@@ -368,7 +378,9 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			<gmd:lineage>
 				<gmd:LI_Lineage>
 					<gmd:statement>
-						<gco:CharacterString>Les arrêtés de circulation des places PMR ont été géocodés à partir des services web de géocodage de l'IGN</gco:CharacterString>
+						<gco:CharacterString>Les arrêtés de circulation des places PMR proviennent d'une collecte de données terrain suivi d'un géoréférencement par le service métier.
+						La précision est mainteant de 1/200
+						L'exhaustivité se fera au fil de l'eau.</gco:CharacterString>
 					</gmd:statement>
 				</gmd:LI_Lineage>
 			</gmd:lineage>
