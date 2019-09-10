@@ -279,10 +279,30 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			<gmd:distributionFormat>
 				<gmd:MD_Format>
 					<gmd:name>
-						<gco:CharacterString>ESRI Shapefile</gco:CharacterString>
+						<gco:CharacterString>CSV</gco:CharacterString>
 					</gmd:name>
 					<gmd:version>
-						<gco:CharacterString>1.0</gco:CharacterString>
+						<gco:CharacterString></gco:CharacterString>
+					</gmd:version>
+				</gmd:MD_Format>
+			</gmd:distributionFormat>
+			<gmd:distributionFormat>
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>Geopackage</gco:CharacterString>
+					</gmd:name>
+					<gmd:version>
+						<gco:CharacterString></gco:CharacterString>
+					</gmd:version>
+				</gmd:MD_Format>
+			</gmd:distributionFormat>
+			<gmd:distributionFormat>
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>Spatialite</gco:CharacterString>
+					</gmd:name>
+					<gmd:version>
+						<gco:CharacterString></gco:CharacterString>
 					</gmd:version>
 				</gmd:MD_Format>
 			</gmd:distributionFormat>
