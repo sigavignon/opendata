@@ -76,7 +76,7 @@
 			<gmd:referenceSystemIdentifier>
 				<gmd:RS_Identifier>
 					<gmd:code>
-						<gco:CharacterString>urn:ogc:def:crs:EPSG:6.11:2154</gco:CharacterString>
+						<gco:CharacterString>3857</gco:CharacterString>
 					</gmd:code>
 					<gmd:codeSpace>
 						<gco:CharacterString>EPSG</gco:CharacterString>
@@ -231,7 +231,7 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			<gmd:descriptiveKeywords>
 				<gmd:MD_Keywords>
 					<gmd:keyword>
-						<gco:CharacterString>Adresses</gco:CharacterString>
+						<gco:CharacterString>Sites protégés</gco:CharacterString>
 					</gmd:keyword>
 					<gmd:thesaurusName>
 						<gmd:CI_Citation>
@@ -255,7 +255,7 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 			<gmd:descriptiveKeywords>
 				<gmd:MD_Keywords>
 					<gmd:keyword>
-						<gco:CharacterString>Adresses</gco:CharacterString>
+						<gco:CharacterString>Bâtiments</gco:CharacterString>
 					</gmd:keyword>
 					<gmd:thesaurusName>
 						<gmd:CI_Citation>
@@ -375,7 +375,7 @@ LICENCE OUVERTE (http://www.etalab.gouv.fr)</gco:CharacterString>
 						<gco:CharacterString>GeoPackage</gco:CharacterString>
 					</gmd:name>
 					<gmd:version>
-						<gco:CharacterString></gco:CharacterString>
+						<gco:CharacterString>None</gco:CharacterString>
 					</gmd:version>
 				</gmd:MD_Format>
 			</gmd:distributionFormat>
