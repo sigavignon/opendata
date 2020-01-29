@@ -28,44 +28,11 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.844488, 43.948748 ]
-			},
-			"properties" : {
-				"name" : "(17) Création d’un espace de jardinage",
-				"description" : "** Thème :** aménagement de l'espace public\n** Coût :** \n** Adresse :** Espace vert situé autour de la résidence les olivarelles\n** Description :** création d'un espace public , potager collectif en permaculture écoresponsable dans le cadre du projet associatif \n** Projet N° :** (2019) 17"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.850303, 43.938802 ]
-			},
-			"properties" : {
-				"name" : "(22) Traversée sécurisée pour les piétons et vélos au carrefour Amandier/Grand Riban/Amants d’Avignon",
-				"description" : "** Thème :** aménagement de l'espace public\n** Coût :** \n** Adresse :** Carrefour entre la Route de l'Amandier et le chemin du Grand Riban\n** Description :**  créer un plateau piéton à cet endroit car ce carrefour est un point de passage par de nombreux cyclistes, promeneur, enfants \n** Projet N° :** (2019) 22"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 4.878638, 43.937044 ]
 			},
 			"properties" : {
 				"name" : "(25) Hommage aux combattants d'Afrique du Nord",
 				"description" : "** Thème :** Aménagement de l’espace public\n** Coût :** \n** Adresse :** rond point avenue des Vertes rives, chemin des cèdres\n** Description :** aménagement d'un rond point des Combattants d'Afrique du Nord\n** Projet N° :** (2019) 25"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.871836, 43.935113 ]
-			},
-			"properties" : {
-				"name" : "(24) Révolution arbres fruitiers à Montfavet",
-				"description" : "** Thème :** Aménagement de l’espace public\n** Coût :** \n** Adresse :** Montfavet (tous lieux)\n** Description :** Aménager les espaces libres en lieux de culture, erbres fruitiers, bacs de plantations diverses, lieux de convivialité et de détente\n** Projet N° :** (2019) 24"
 			}
 		},
 		{
@@ -105,6 +72,17 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.844488, 43.948748 ]
+			},
+			"properties" : {
+				"name" : "(17) Création d’un espace de jardinage",
+				"description" : "** Thème :** aménagement de l'espace public\n** Coût :** \n** Adresse :** Espace vert situé autour de la résidence les olivarelles\n** Description :** création d'un espace public , potager collectif en permaculture écoresponsable dans le cadre du projet associatif \n** Projet N° :** (2019) 17"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.832193, 43.945635 ]
 			},
 			"properties" : {
@@ -116,10 +94,32 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.850303, 43.938802 ]
+			},
+			"properties" : {
+				"name" : "(22) Sécurisation du carrefour de l'Amandier et du Grand Riban",
+				"description" : "** Thème :** aménagement de l'espace public\n** Coût :** \n** Adresse :** Carrefour entre la Route de l'Amandier et le chemin du Grand Riban\n** Description :**  créer un plateau piéton à cet endroit car ce carrefour est un point de passage par de nombreux cyclistes, promeneur, enfants \n** Projet N° :** (2019) 22"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.871836, 43.935113 ]
+			},
+			"properties" : {
+				"name" : "(24) Plantation d'arbres fruitiers",
+				"description" : "** Thème :** Aménagement de l’espace public\n** Coût :** \n** Adresse :** Montfavet (tous lieux)\n** Description :** Aménager les espaces libres en lieux de culture, erbres fruitiers, bacs de plantations diverses, lieux de convivialité et de détente\n** Projet N° :** (2019) 24"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.833727, 43.944886 ]
 			},
 			"properties" : {
-				"name" : "(20) Création d’espaces de jardinage",
+				"name" : "(20) Création d'un espace de jardinage",
 				"description" : "** Thème :** Aménagement de l'espace public\n** Coût :** \n** Adresse :** Quartier St Jean -Grange d'Orel\n** Description :** Création de jardins familiaux , site friche ancienne maison Paisible\n** Projet N° :** (2019) 20"
 			}
 		},
@@ -130,7 +130,7 @@
 				"coordinates" : [ 4.834092, 43.944944 ]
 			},
 			"properties" : {
-				"name" : "(21) Espace de jeux  et de détente pour les familles Grange d’Orel",
+				"name" : "(21) Espace de jeux  et de détente",
 				"description" : "** Thème :** Aménagement de l'espace public\n** Coût :** \n** Adresse :** Quartier St Jean -Grange d'Orel\n** Description :** Création d'une aire de loisirs qui convienne à toute la famille, en complementarité du projet Parcelles de vie\n** Projet N° :** (2019) 21"
 			}
 		}
