@@ -7,11 +7,13 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 4.800975880707206, 43.9484520197074 ],
+					[ 4.800963269636766, 43.94845084698771 ],
 					[ 4.801035069252229, 43.948513942617645 ],
 					[ 4.801210148178022, 43.9487230478878 ],
-					[ 4.801518480888953, 43.949093026241634 ],
-					[ 4.801737532257379, 43.94918842158474 ]
+					[ 4.80152411937099, 43.94917161510506 ],
+					[ 4.801522570954022, 43.94929719688986 ],
+					[ 4.801669974376804, 43.949509500005234 ],
+					[ 4.801751471595528, 43.9495692832935 ]
 				]
 			},
 			"properties" : {
@@ -219,6 +221,23 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
+					[ 4.815020181663692, 43.94405864056235 ],
+					[ 4.815217637379885, 43.944258776183325 ],
+					[ 4.815313417853431, 43.944236682258115 ],
+					[ 4.815799147507755, 43.94470891011352 ],
+					[ 4.815905456780726, 43.94487291664903 ]
+				]
+			},
+			"properties" : {
+				"name" : "Tour des Remparts",
+				"description" : "**voie verte**\nRevêtement : **meuble**\nAvancement : **ouvert**"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
 					[ 4.815905456780726, 43.94487291664903 ],
 					[ 4.816175099080413, 43.9452481692069 ],
 					[ 4.816356132367921, 43.94552139190024 ],
@@ -230,6 +249,21 @@
 			"properties" : {
 				"name" : "Tour des Remparts",
 				"description" : "**voie verte**\nRevêtement : **lisse**\nAvancement : **ouvert**"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 4.8169470125549285, 43.94634478497242 ],
+					[ 4.8169470125549285, 43.94634478497242 ],
+					[ 4.817202369034271, 43.946657599065915 ]
+				]
+			},
+			"properties" : {
+				"name" : "Tour des Remparts",
+				"description" : "**bande cyclable**\nRevêtement : **lisse**\nAvancement : **ouvert**"
 			}
 		},
 		{
@@ -252,7 +286,7 @@
 			},
 			"properties" : {
 				"name" : "Tour des Remparts",
-				"description" : "**itinéraire à circulation apaisée**\nRevêtement : **lisse**\nAvancement : **ouvert**"
+				"description" : "**voie verte**\nRevêtement : **lisse**\nAvancement : **ouvert**"
 			}
 		},
 		{
@@ -260,7 +294,8 @@
 			"geometry" : {
 				"type" : "LineString",
 				"coordinates" : [
-					[ 4.81952352714705, 43.95004336873425 ],
+					[ 4.819444344392783, 43.949848128348094 ],
+					[ 4.819503678156682, 43.94999731032058 ],
 					[ 4.819529035996467, 43.950140246023274 ],
 					[ 4.8195094194790356, 43.95023288249424 ],
 					[ 4.819478896421237, 43.95036268274201 ],
@@ -274,7 +309,7 @@
 			},
 			"properties" : {
 				"name" : "Tour des Remparts",
-				"description" : "**itinéraire à circulation apaisée**\nRevêtement : **lisse**\nAvancement : **ouvert**"
+				"description" : "**voie verte**\nRevêtement : **lisse**\nAvancement : **ouvert**"
 			}
 		},
 		{
