@@ -489,6 +489,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "101052946",
+				"date" : "20210123000000",
+				"counts" : "462",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060616",
+				"name" : "Pont Daladier Piétons Piétons sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8022500733, 43.950940437 ]
 			},
 			"properties" : {
@@ -657,6 +678,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "104058052",
+				"date" : "20210126000000",
+				"counts" : "217",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060658",
+				"name" : "St Lazare vers Thiers entre12 et 21 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8022500733, 43.950940437 ]
 			},
 			"properties" : {
@@ -693,6 +735,48 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "100052947",
+				"date" : "20210123000000",
+				"counts" : "750",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060719",
+				"name" : "Pont Daladier Vélos",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "353242241",
+				"date" : "20210125000000",
+				"counts" : "68",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060636",
+				"name" : "Pont Daladier Vélos [Bike IN]",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20201129040000",
+				"counter" : "YTH19058714"
 			}
 		},
 		{
@@ -766,6 +850,27 @@
 			},
 			"properties" : {
 				"cpt_id" : "100058052",
+				"date" : "20210128000000",
+				"counts" : "924",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060719",
+				"name" : "Limbert",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "100058052",
 				"date" : "20210101000000",
 				"counts" : "269",
 				"status" : "0",
@@ -794,6 +899,27 @@
 				"meta_millesime" : 2021,
 				"meta_datmaj" : "20210114060656.527171",
 				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "101058052",
+				"date" : "20210129000000",
+				"counts" : "60",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060647",
+				"name" : "Thiers vers St Lazare  < 12 kmh",
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
@@ -840,6 +966,48 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20201129040000",
 				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "100052947",
+				"date" : "20210126000000",
+				"counts" : "559",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060718",
+				"name" : "Pont Daladier Vélos",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "102052946",
+				"date" : "20210128000000",
+				"counts" : "466",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060625",
+				"name" : "Pont Daladier Piétons Piétons entrée de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
 			}
 		},
 		{
@@ -954,6 +1122,27 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "105058052",
+				"date" : "20210124000000",
+				"counts" : "28",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060701",
+				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "104058052",
 				"date" : "20210112000000",
 				"counts" : "232",
@@ -993,6 +1182,48 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "108058052",
+				"date" : "20210128000000",
+				"counts" : "5",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060717",
+				"name" : "St Lazare vers Thiers > 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "100052947",
+				"date" : "20210129000000",
+				"counts" : "849",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060718",
+				"name" : "Pont Daladier Vélos",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.80119, 43.95111 ]
 			},
 			"properties" : {
@@ -1008,6 +1239,27 @@
 				"user_type_libelle" : "piéton",
 				"installation_date" : "20190701000000",
 				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "105058052",
+				"date" : "20210127000000",
+				"counts" : "44",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060703",
+				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
 			}
 		},
 		{
@@ -1067,6 +1319,27 @@
 				"meta_millesime" : 2021,
 				"meta_datmaj" : "20210119060659.930028",
 				"name" : "Thiers vers St Lazare  > 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "101058052",
+				"date" : "20210127000000",
+				"counts" : "55",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060646",
+				"name" : "Thiers vers St Lazare  < 12 kmh",
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
@@ -1185,6 +1458,27 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "107058052",
+				"date" : "20210126000000",
+				"counts" : "8",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060711",
+				"name" : "Thiers vers St Lazare  > 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "104058052",
 				"date" : "20210119000000",
 				"counts" : "302",
@@ -1276,6 +1570,27 @@
 				"status_libelle" : "brute",
 				"meta_millesime" : 2021,
 				"meta_datmaj" : "20210128172317",
+				"name" : "Pont Daladier Vélos",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "100052947",
+				"date" : "20210127000000",
+				"counts" : "775",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060718",
 				"name" : "Pont Daladier Vélos",
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
@@ -1395,6 +1710,27 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "100058052",
+				"date" : "20210125000000",
+				"counts" : "911",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060718",
+				"name" : "Limbert",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "106058052",
 				"date" : "20210114000000",
 				"counts" : "170",
@@ -1428,6 +1764,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "353242244",
+				"date" : "20210123000000",
+				"counts" : "160",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060639",
+				"name" : "Pont Daladier Vélos [Bike OUT]",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20201129040000",
+				"counter" : "YTH19058714"
 			}
 		},
 		{
@@ -1581,6 +1938,48 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "101052947",
+				"date" : "20210129000000",
+				"counts" : "331",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060630",
+				"name" : "Pont Daladier Vélos Vélos sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "100052946",
+				"date" : "20210124000000",
+				"counts" : "1318",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060718",
+				"name" : "Pont Daladier Piétons",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
@@ -1665,6 +2064,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "102052946",
+				"date" : "20210123000000",
+				"counts" : "432",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060622",
+				"name" : "Pont Daladier Piétons Piétons entrée de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
@@ -1743,6 +2163,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20201129040000",
 				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "103058052",
+				"date" : "20210123000000",
+				"counts" : "139",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060652",
+				"name" : "Thiers vers St Lazare entre 12 et 21 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
 			}
 		},
 		{
@@ -1857,6 +2298,48 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "107058052",
+				"date" : "20210129000000",
+				"counts" : "8",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060713",
+				"name" : "Thiers vers St Lazare  > 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "102058052",
+				"date" : "20210124000000",
+				"counts" : "33",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060649",
+				"name" : "St Lazare vers Thiers < 12 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "103058052",
 				"date" : "20210103000000",
 				"counts" : "98",
@@ -1953,6 +2436,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "353242244",
+				"date" : "20210124000000",
+				"counts" : "196",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060640",
+				"name" : "Pont Daladier Vélos [Bike OUT]",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20201129040000",
+				"counter" : "YTH19058714"
 			}
 		},
 		{
@@ -2110,6 +2614,27 @@
 			},
 			"properties" : {
 				"cpt_id" : "101052947",
+				"date" : "20210125000000",
+				"counts" : "261",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060627",
+				"name" : "Pont Daladier Vélos Vélos sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "101052947",
 				"date" : "20210115000000",
 				"counts" : "243",
 				"status" : "0",
@@ -2121,6 +2646,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20190701000000",
 				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "101058052",
+				"date" : "20210126000000",
+				"counts" : "55",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060645",
+				"name" : "Thiers vers St Lazare  < 12 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
 			}
 		},
 		{
@@ -2142,6 +2688,27 @@
 				"user_type_libelle" : "piéton",
 				"installation_date" : "20190701000000",
 				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "106058052",
+				"date" : "20210125000000",
+				"counts" : "153",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060706",
+				"name" : "St Lazare vers Thiers entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
 			}
 		},
 		{
@@ -2211,6 +2778,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "102052946",
+				"date" : "20210126000000",
+				"counts" : "313",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060623",
+				"name" : "Pont Daladier Piétons Piétons entrée de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
@@ -2247,6 +2835,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "353242244",
+				"date" : "20210125000000",
+				"counts" : "139",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060640",
+				"name" : "Pont Daladier Vélos [Bike OUT]",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20201129040000",
+				"counter" : "YTH19058714"
 			}
 		},
 		{
@@ -2319,6 +2928,27 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "102058052",
+				"date" : "20210126000000",
+				"counts" : "56",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060650",
+				"name" : "St Lazare vers Thiers < 12 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "107058052",
 				"date" : "20210109000000",
 				"counts" : "4",
@@ -2331,6 +2961,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "102052946",
+				"date" : "20210129000000",
+				"counts" : "456",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060625",
+				"name" : "Pont Daladier Piétons Piétons entrée de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
 			}
 		},
 		{
@@ -2436,6 +3087,48 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20201129040000",
 				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "100058052",
+				"date" : "20210124000000",
+				"counts" : "465",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060719",
+				"name" : "Limbert",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "105058052",
+				"date" : "20210123000000",
+				"counts" : "43",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060701",
+				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
 			}
 		},
 		{
@@ -2550,6 +3243,27 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "105058052",
+				"date" : "20210125000000",
+				"counts" : "64",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060702",
+				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "106058052",
 				"date" : "20210110000000",
 				"counts" : "51",
@@ -2625,6 +3339,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "353242244",
+				"date" : "20210127000000",
+				"counts" : "154",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060641",
+				"name" : "Pont Daladier Vélos [Bike OUT]",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20201129040000",
+				"counter" : "YTH19058714"
 			}
 		},
 		{
@@ -2970,6 +3705,27 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "104058052",
+				"date" : "20210125000000",
+				"counts" : "287",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060658",
+				"name" : "St Lazare vers Thiers entre12 et 21 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "107058052",
 				"date" : "20210101000000",
 				"counts" : "2",
@@ -3002,6 +3758,27 @@
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "353242241",
+				"date" : "20210126000000",
+				"counts" : "56",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060636",
+				"name" : "Pont Daladier Vélos [Bike IN]",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20201129040000",
 				"counter" : "YTH19058714"
 			}
 		},
@@ -3282,6 +4059,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "102058052",
+				"date" : "20210125000000",
+				"counts" : "63",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060649",
+				"name" : "St Lazare vers Thiers < 12 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8022500733, 43.950940437 ]
 			},
 			"properties" : {
@@ -3297,6 +4095,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20201129040000",
 				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "106058052",
+				"date" : "20210124000000",
+				"counts" : "81",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060706",
+				"name" : "St Lazare vers Thiers entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
 			}
 		},
 		{
@@ -3398,6 +4217,69 @@
 				"meta_millesime" : 2021,
 				"meta_datmaj" : "20210121060637.717387",
 				"name" : "Thiers vers St Lazare  < 12 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "353242244",
+				"date" : "20210129000000",
+				"counts" : "178",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060642",
+				"name" : "Pont Daladier Vélos [Bike OUT]",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20201129040000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "102052947",
+				"date" : "20210129000000",
+				"counts" : "240",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060634",
+				"name" : "Pont Daladier Vélos Vélos entrée de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "108058052",
+				"date" : "20210124000000",
+				"counts" : "2",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060715",
+				"name" : "St Lazare vers Thiers > 30 kmh",
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
@@ -3559,6 +4441,27 @@
 			},
 			"properties" : {
 				"cpt_id" : "105058052",
+				"date" : "20210129000000",
+				"counts" : "71",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060704",
+				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "105058052",
 				"date" : "20210106000000",
 				"counts" : "50",
 				"status" : "0",
@@ -3570,6 +4473,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "101052946",
+				"date" : "20210128000000",
+				"counts" : "500",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060620",
+				"name" : "Pont Daladier Piétons Piétons sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
 			}
 		},
 		{
@@ -3600,6 +4524,27 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "100058052",
+				"date" : "20210123000000",
+				"counts" : "509",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060719",
+				"name" : "Limbert",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "102058052",
 				"date" : "20210107000000",
 				"counts" : "53",
@@ -3612,6 +4557,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "102052947",
+				"date" : "20210127000000",
+				"counts" : "223",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060633",
+				"name" : "Pont Daladier Vélos Vélos entrée de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
 			}
 		},
 		{
@@ -3681,6 +4647,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "102052947",
+				"date" : "20210128000000",
+				"counts" : "225",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060633",
+				"name" : "Pont Daladier Vélos Vélos entrée de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
@@ -3696,6 +4683,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "353242244",
+				"date" : "20210126000000",
+				"counts" : "108",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060641",
+				"name" : "Pont Daladier Vélos [Bike OUT]",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20201129040000",
+				"counter" : "YTH19058714"
 			}
 		},
 		{
@@ -3891,6 +4899,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "101052947",
+				"date" : "20210123000000",
+				"counts" : "300",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060626",
+				"name" : "Pont Daladier Vélos Vélos sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
@@ -3999,6 +5028,27 @@
 				"coordinates" : [ 4.8022500733, 43.950940437 ]
 			},
 			"properties" : {
+				"cpt_id" : "353242241",
+				"date" : "20210123000000",
+				"counts" : "79",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060635",
+				"name" : "Pont Daladier Vélos [Bike IN]",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20201129040000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
 				"cpt_id" : "100052947",
 				"date" : "20210109000000",
 				"counts" : "553",
@@ -4007,6 +5057,48 @@
 				"meta_millesime" : 2021,
 				"meta_datmaj" : "20210115060714.307449",
 				"name" : "Pont Daladier Vélos",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "101058052",
+				"date" : "20210125000000",
+				"counts" : "52",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060645",
+				"name" : "Thiers vers St Lazare  < 12 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "102052947",
+				"date" : "20210125000000",
+				"counts" : "198",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060632",
+				"name" : "Pont Daladier Vélos Vélos entrée de ville",
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20190701000000",
@@ -4125,6 +5217,27 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "102058052",
+				"date" : "20210129000000",
+				"counts" : "63",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060652",
+				"name" : "St Lazare vers Thiers < 12 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "105058052",
 				"date" : "20210102000000",
 				"counts" : "12",
@@ -4167,6 +5280,27 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "104058052",
+				"date" : "20210123000000",
+				"counts" : "163",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060657",
+				"name" : "St Lazare vers Thiers entre12 et 21 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "105058052",
 				"date" : "20210103000000",
 				"counts" : "10",
@@ -4175,6 +5309,27 @@
 				"meta_millesime" : 2021,
 				"meta_datmaj" : "20210109060651.634591",
 				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "108058052",
+				"date" : "20210123000000",
+				"counts" : "2",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060714",
+				"name" : "St Lazare vers Thiers > 30 kmh",
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
@@ -4353,6 +5508,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "103058052",
+				"date" : "20210126000000",
+				"counts" : "273",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060654",
+				"name" : "Thiers vers St Lazare entre 12 et 21 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8022500733, 43.950940437 ]
 			},
 			"properties" : {
@@ -4410,6 +5586,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "101052947",
+				"date" : "20210124000000",
+				"counts" : "346",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060627",
+				"name" : "Pont Daladier Vélos Vélos sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
 			}
 		},
 		{
@@ -4584,6 +5781,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "102058052",
+				"date" : "20210128000000",
+				"counts" : "67",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060651",
+				"name" : "St Lazare vers Thiers < 12 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.80119, 43.95111 ]
 			},
 			"properties" : {
@@ -4734,6 +5952,27 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "102058052",
+				"date" : "20210127000000",
+				"counts" : "60",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060650",
+				"name" : "St Lazare vers Thiers < 12 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "101058052",
 				"date" : "20210116000000",
 				"counts" : "46",
@@ -4809,6 +6048,48 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20190701000000",
 				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "108058052",
+				"date" : "20210125000000",
+				"counts" : "7",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060715",
+				"name" : "St Lazare vers Thiers > 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "100052946",
+				"date" : "20210125000000",
+				"counts" : "832",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060718",
+				"name" : "Pont Daladier Piétons",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
 			}
 		},
 		{
@@ -4962,6 +6243,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "100052946",
+				"date" : "20210127000000",
+				"counts" : "880",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060719",
+				"name" : "Pont Daladier Piétons",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8022500733, 43.950940437 ]
 			},
 			"properties" : {
@@ -5046,6 +6348,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "107058052",
+				"date" : "20210123000000",
+				"counts" : "3",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060710",
+				"name" : "Thiers vers St Lazare  > 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8022500733, 43.950940437 ]
 			},
 			"properties" : {
@@ -5057,6 +6380,27 @@
 				"meta_millesime" : 2021,
 				"meta_datmaj" : "20210114060625.53499",
 				"name" : "Pont Daladier Vélos Vélos sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "102052947",
+				"date" : "20210126000000",
+				"counts" : "171",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060632",
+				"name" : "Pont Daladier Vélos Vélos entrée de ville",
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20190701000000",
@@ -5130,6 +6474,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "105058052",
+				"date" : "20210126000000",
+				"counts" : "34",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060703",
+				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8022500733, 43.950940437 ]
 			},
 			"properties" : {
@@ -5145,6 +6510,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20190701000000",
 				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "104058052",
+				"date" : "20210127000000",
+				"counts" : "255",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060659",
+				"name" : "St Lazare vers Thiers entre12 et 21 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
 			}
 		},
 		{
@@ -5187,6 +6573,48 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "102052946",
+				"date" : "20210125000000",
+				"counts" : "379",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060623",
+				"name" : "Pont Daladier Piétons Piétons entrée de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "353242241",
+				"date" : "20210124000000",
+				"counts" : "102",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060635",
+				"name" : "Pont Daladier Vélos [Bike IN]",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20201129040000",
+				"counter" : "YTH19058714"
 			}
 		},
 		{
@@ -5250,6 +6678,27 @@
 				"user_type_libelle" : "piéton",
 				"installation_date" : "20190701000000",
 				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "107058052",
+				"date" : "20210128000000",
+				"counts" : "12",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060713",
+				"name" : "Thiers vers St Lazare  > 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
 			}
 		},
 		{
@@ -5364,6 +6813,27 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "106058052",
+				"date" : "20210123000000",
+				"counts" : "64",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060705",
+				"name" : "St Lazare vers Thiers entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "104058052",
 				"date" : "20210117000000",
 				"counts" : "95",
@@ -5439,6 +6909,48 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20201129040000",
 				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "103058052",
+				"date" : "20210127000000",
+				"counts" : "248",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060655",
+				"name" : "Thiers vers St Lazare entre 12 et 21 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "100052946",
+				"date" : "20210128000000",
+				"counts" : "966",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060718",
+				"name" : "Pont Daladier Piétons",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
 			}
 		},
 		{
@@ -5529,6 +7041,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "101052946",
+				"date" : "20210129000000",
+				"counts" : "525",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060621",
+				"name" : "Pont Daladier Piétons Piétons sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
@@ -5565,6 +7098,69 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "100052947",
+				"date" : "20210128000000",
+				"counts" : "866",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060718",
+				"name" : "Pont Daladier Vélos",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "106058052",
+				"date" : "20210128000000",
+				"counts" : "126",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060708",
+				"name" : "St Lazare vers Thiers entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "101052946",
+				"date" : "20210125000000",
+				"counts" : "453",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060619",
+				"name" : "Pont Daladier Piétons Piétons sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
 			}
 		},
 		{
@@ -5624,6 +7220,27 @@
 				"meta_millesime" : 2021,
 				"meta_datmaj" : "20210126151651.68865",
 				"name" : "Thiers vers St Lazare entre 12 et 21 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "106058052",
+				"date" : "20210126000000",
+				"counts" : "163",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060707",
+				"name" : "St Lazare vers Thiers entre 21 et 30 kmh",
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
@@ -5763,6 +7380,27 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "102058052",
+				"date" : "20210123000000",
+				"counts" : "58",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060648",
+				"name" : "St Lazare vers Thiers < 12 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "106058052",
 				"date" : "20210102000000",
 				"counts" : "43",
@@ -5796,6 +7434,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20190701000000",
 				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "106058052",
+				"date" : "20210129000000",
+				"counts" : "115",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060709",
+				"name" : "St Lazare vers Thiers entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
 			}
 		},
 		{
@@ -5995,6 +7654,69 @@
 			},
 			"properties" : {
 				"cpt_id" : "100052946",
+				"date" : "20210126000000",
+				"counts" : "689",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060718",
+				"name" : "Pont Daladier Piétons",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "101052947",
+				"date" : "20210128000000",
+				"counts" : "349",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060629",
+				"name" : "Pont Daladier Vélos Vélos sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "103058052",
+				"date" : "20210124000000",
+				"counts" : "140",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060653",
+				"name" : "Thiers vers St Lazare entre 12 et 21 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "100052946",
 				"date" : "20210121000000",
 				"counts" : "42",
 				"status" : "0",
@@ -6006,6 +7728,48 @@
 				"user_type_libelle" : "piéton",
 				"installation_date" : "20190701000000",
 				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "101052946",
+				"date" : "20210126000000",
+				"counts" : "376",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060619",
+				"name" : "Pont Daladier Piétons Piétons sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "104058052",
+				"date" : "20210124000000",
+				"counts" : "132",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060657",
+				"name" : "St Lazare vers Thiers entre12 et 21 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
 			}
 		},
 		{
@@ -6027,6 +7791,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20201129040000",
 				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "105058052",
+				"date" : "20210128000000",
+				"counts" : "69",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060704",
+				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
 			}
 		},
 		{
@@ -6111,6 +7896,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20201129040000",
 				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "108058052",
+				"date" : "20210126000000",
+				"counts" : "13",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060716",
+				"name" : "St Lazare vers Thiers > 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
 			}
 		},
 		{
@@ -6267,6 +8073,27 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "100058052",
+				"date" : "20210127000000",
+				"counts" : "796",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060718",
+				"name" : "Limbert",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "106058052",
 				"date" : "20210119000000",
 				"counts" : "135",
@@ -6275,6 +8102,27 @@
 				"meta_millesime" : 2021,
 				"meta_datmaj" : "20210126175836",
 				"name" : "St Lazare vers Thiers entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "104058052",
+				"date" : "20210128000000",
+				"counts" : "308",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060700",
+				"name" : "St Lazare vers Thiers entre12 et 21 kmh",
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
@@ -6474,6 +8322,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "103058052",
+				"date" : "20210128000000",
+				"counts" : "279",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060655",
+				"name" : "Thiers vers St Lazare entre 12 et 21 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.80119, 43.95111 ]
 			},
 			"properties" : {
@@ -6561,6 +8430,27 @@
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
+				"cpt_id" : "107058052",
+				"date" : "20210127000000",
+				"counts" : "5",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060712",
+				"name" : "Thiers vers St Lazare  > 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
 				"cpt_id" : "101058052",
 				"date" : "20210107000000",
 				"counts" : "54",
@@ -6615,6 +8505,27 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "101052946",
+				"date" : "20210124000000",
+				"counts" : "655",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060618",
+				"name" : "Pont Daladier Piétons Piétons sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
 			}
 		},
 		{
@@ -6695,6 +8606,27 @@
 				"meta_millesime" : 2021,
 				"meta_datmaj" : "20210108060622.946277",
 				"name" : "Pont Daladier Vélos Vélos sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "102052947",
+				"date" : "20210123000000",
+				"counts" : "211",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060631",
+				"name" : "Pont Daladier Vélos Vélos entrée de ville",
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20190701000000",
@@ -6831,6 +8763,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "108058052",
+				"date" : "20210127000000",
+				"counts" : "6",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060716",
+				"name" : "St Lazare vers Thiers > 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.80119, 43.95111 ]
 			},
 			"properties" : {
@@ -6915,6 +8868,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "103058052",
+				"date" : "20210125000000",
+				"counts" : "284",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060653",
+				"name" : "Thiers vers St Lazare entre 12 et 21 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8022500733, 43.950940437 ]
 			},
 			"properties" : {
@@ -6951,6 +8925,69 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "108058052",
+				"date" : "20210129000000",
+				"counts" : "5",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060718",
+				"name" : "St Lazare vers Thiers > 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "100052946",
+				"date" : "20210129000000",
+				"counts" : "981",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060719",
+				"name" : "Pont Daladier Piétons",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "353242244",
+				"date" : "20210128000000",
+				"counts" : "199",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060642",
+				"name" : "Pont Daladier Vélos [Bike OUT]",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20201129040000",
+				"counter" : "YTH19058714"
 			}
 		},
 		{
@@ -7020,6 +9057,27 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "104058052",
+				"date" : "20210129000000",
+				"counts" : "333",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060700",
+				"name" : "St Lazare vers Thiers entre12 et 21 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.80119, 43.95111 ]
 			},
 			"properties" : {
@@ -7044,6 +9102,27 @@
 				"coordinates" : [ 4.8022500733, 43.950940437 ]
 			},
 			"properties" : {
+				"cpt_id" : "353242241",
+				"date" : "20210128000000",
+				"counts" : "93",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060638",
+				"name" : "Pont Daladier Vélos [Bike IN]",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20201129040000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
 				"cpt_id" : "101052947",
 				"date" : "20210110000000",
 				"counts" : "104",
@@ -7055,6 +9134,27 @@
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "353242241",
+				"date" : "20210129000000",
+				"counts" : "100",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060638",
+				"name" : "Pont Daladier Vélos [Bike IN]",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20201129040000",
 				"counter" : "YTH19058714"
 			}
 		},
@@ -7419,6 +9519,48 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "100052946",
+				"date" : "20210123000000",
+				"counts" : "894",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060718",
+				"name" : "Pont Daladier Piétons",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "101052946",
+				"date" : "20210127000000",
+				"counts" : "469",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060620",
+				"name" : "Pont Daladier Piétons Piétons sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
@@ -7503,6 +9645,363 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "107058052",
+				"date" : "20210124000000",
+				"counts" : "3",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060710",
+				"name" : "Thiers vers St Lazare  > 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "100058052",
+				"date" : "20210126000000",
+				"counts" : "819",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060719",
+				"name" : "Limbert",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "102052946",
+				"date" : "20210127000000",
+				"counts" : "411",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060624",
+				"name" : "Pont Daladier Piétons Piétons entrée de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "101052947",
+				"date" : "20210127000000",
+				"counts" : "306",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060628",
+				"name" : "Pont Daladier Vélos Vélos sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "353242241",
+				"date" : "20210127000000",
+				"counts" : "92",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060637",
+				"name" : "Pont Daladier Vélos [Bike IN]",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20201129040000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "106058052",
+				"date" : "20210127000000",
+				"counts" : "123",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060707",
+				"name" : "St Lazare vers Thiers entre 21 et 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "100052947",
+				"date" : "20210125000000",
+				"counts" : "666",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060718",
+				"name" : "Pont Daladier Vélos",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.80119, 43.95111 ]
+			},
+			"properties" : {
+				"cpt_id" : "102052946",
+				"date" : "20210124000000",
+				"counts" : "663",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060622",
+				"name" : "Pont Daladier Piétons Piétons entrée de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "piéton",
+				"installation_date" : "20190701000000",
+				"counter" : "Y2H19058715"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "101058052",
+				"date" : "20210128000000",
+				"counts" : "58",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060646",
+				"name" : "Thiers vers St Lazare  < 12 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "103058052",
+				"date" : "20210129000000",
+				"counts" : "290",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060656",
+				"name" : "Thiers vers St Lazare entre 12 et 21 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "102052947",
+				"date" : "20210124000000",
+				"counts" : "198",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060631",
+				"name" : "Pont Daladier Vélos Vélos entrée de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "101058052",
+				"date" : "20210123000000",
+				"counts" : "37",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060644",
+				"name" : "Thiers vers St Lazare  < 12 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "101058052",
+				"date" : "20210124000000",
+				"counts" : "46",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060644",
+				"name" : "Thiers vers St Lazare  < 12 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "101052947",
+				"date" : "20210126000000",
+				"counts" : "224",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060628",
+				"name" : "Pont Daladier Vélos Vélos sortie de ville",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "100058052",
+				"date" : "20210129000000",
+				"counts" : "945",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060719",
+				"name" : "Limbert",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8177, 43.94737 ]
+			},
+			"properties" : {
+				"cpt_id" : "107058052",
+				"date" : "20210125000000",
+				"counts" : "1",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060711",
+				"name" : "Thiers vers St Lazare  > 30 kmh",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20200127000000",
+				"counter" : "X2H19111551"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
+				"coordinates" : [ 4.8022500733, 43.950940437 ]
+			},
+			"properties" : {
+				"cpt_id" : "100052947",
+				"date" : "20210124000000",
+				"counts" : "842",
+				"status" : "0",
+				"status_libelle" : "brute",
+				"meta_millesime" : 2021,
+				"meta_datmaj" : "20210130060719",
+				"name" : "Pont Daladier Vélos",
+				"domain" : "Mairie d'Avignon Service Mobilité",
+				"user_type_libelle" : "vélo",
+				"installation_date" : "20190701000000",
+				"counter" : "YTH19058714"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "Point",
 				"coordinates" : [ 4.8022500733, 43.950940437 ]
 			},
 			"properties" : {
@@ -7518,132 +10017,6 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20190701000000",
 				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "101052947",
-				"date" : "20210125000000",
-				"counts" : "261",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161617",
-				"name" : "Pont Daladier Vélos Vélos sortie de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "101058052",
-				"date" : "20210126000000",
-				"counts" : "55",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161634",
-				"name" : "Thiers vers St Lazare  < 12 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "106058052",
-				"date" : "20210125000000",
-				"counts" : "153",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161653",
-				"name" : "St Lazare vers Thiers entre 21 et 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "102052946",
-				"date" : "20210126000000",
-				"counts" : "313",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161613",
-				"name" : "Pont Daladier Piétons Piétons entrée de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "353242244",
-				"date" : "20210125000000",
-				"counts" : "139",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161629",
-				"name" : "Pont Daladier Vélos [Bike OUT]",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20201129040000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "102058052",
-				"date" : "20210126000000",
-				"counts" : "56",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161638",
-				"name" : "St Lazare vers Thiers < 12 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
 			}
 		},
 		{
@@ -7675,174 +10048,6 @@
 			},
 			"properties" : {
 				"cpt_id" : "100058052",
-				"date" : "20210124000000",
-				"counts" : "465",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Limbert",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "105058052",
-				"date" : "20210123000000",
-				"counts" : "43",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161648",
-				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "105058052",
-				"date" : "20210125000000",
-				"counts" : "64",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161649",
-				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "353242244",
-				"date" : "20210127000000",
-				"counts" : "154",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161630",
-				"name" : "Pont Daladier Vélos [Bike OUT]",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20201129040000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "104058052",
-				"date" : "20210125000000",
-				"counts" : "287",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161645",
-				"name" : "St Lazare vers Thiers entre12 et 21 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "353242241",
-				"date" : "20210126000000",
-				"counts" : "56",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161626",
-				"name" : "Pont Daladier Vélos [Bike IN]",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20201129040000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "102058052",
-				"date" : "20210125000000",
-				"counts" : "63",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161637",
-				"name" : "St Lazare vers Thiers < 12 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "106058052",
-				"date" : "20210124000000",
-				"counts" : "81",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161653",
-				"name" : "St Lazare vers Thiers entre 21 et 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "100058052",
 				"date" : "20210122000000",
 				"counts" : "141",
 				"status" : "0",
@@ -7850,27 +10055,6 @@
 				"meta_millesime" : 2021,
 				"meta_datmaj" : "20210129161704",
 				"name" : "Limbert",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "108058052",
-				"date" : "20210124000000",
-				"counts" : "2",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161701",
-				"name" : "St Lazare vers Thiers > 30 kmh",
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
@@ -7923,384 +10107,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "101052946",
-				"date" : "20210128000000",
-				"counts" : "500",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161610",
-				"name" : "Pont Daladier Piétons Piétons sortie de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "100058052",
-				"date" : "20210123000000",
-				"counts" : "518",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Limbert",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "102052947",
-				"date" : "20210127000000",
-				"counts" : "223",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161623",
-				"name" : "Pont Daladier Vélos Vélos entrée de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "102052947",
-				"date" : "20210128000000",
-				"counts" : "225",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161623",
-				"name" : "Pont Daladier Vélos Vélos entrée de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "353242244",
-				"date" : "20210126000000",
-				"counts" : "108",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161630",
-				"name" : "Pont Daladier Vélos [Bike OUT]",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20201129040000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "101052947",
-				"date" : "20210123000000",
-				"counts" : "306",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161616",
-				"name" : "Pont Daladier Vélos Vélos sortie de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "353242241",
-				"date" : "20210123000000",
-				"counts" : "79",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161624",
-				"name" : "Pont Daladier Vélos [Bike IN]",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20201129040000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "101058052",
-				"date" : "20210125000000",
-				"counts" : "52",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161633",
-				"name" : "Thiers vers St Lazare  < 12 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "102052947",
-				"date" : "20210125000000",
-				"counts" : "198",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161621",
-				"name" : "Pont Daladier Vélos Vélos entrée de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "104058052",
-				"date" : "20210123000000",
-				"counts" : "165",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161644",
-				"name" : "St Lazare vers Thiers entre12 et 21 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "108058052",
-				"date" : "20210123000000",
-				"counts" : "2",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161700",
-				"name" : "St Lazare vers Thiers > 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "108058052",
-				"date" : "20210125000000",
-				"counts" : "7",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161701",
-				"name" : "St Lazare vers Thiers > 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "103058052",
-				"date" : "20210126000000",
-				"counts" : "273",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161642",
-				"name" : "Thiers vers St Lazare entre 12 et 21 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "101052947",
-				"date" : "20210124000000",
-				"counts" : "346",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161616",
-				"name" : "Pont Daladier Vélos Vélos sortie de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "102058052",
-				"date" : "20210128000000",
-				"counts" : "67",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161639",
-				"name" : "St Lazare vers Thiers < 12 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "102058052",
-				"date" : "20210127000000",
-				"counts" : "60",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161638",
-				"name" : "St Lazare vers Thiers < 12 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "100052946",
-				"date" : "20210125000000",
-				"counts" : "832",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Pont Daladier Piétons",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "100052946",
-				"date" : "20210127000000",
-				"counts" : "880",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Pont Daladier Piétons",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
@@ -8322,237 +10128,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "102052947",
-				"date" : "20210126000000",
-				"counts" : "171",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161622",
-				"name" : "Pont Daladier Vélos Vélos entrée de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "105058052",
-				"date" : "20210126000000",
-				"counts" : "34",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161650",
-				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "107058052",
-				"date" : "20210123000000",
-				"counts" : "3",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161656",
-				"name" : "Thiers vers St Lazare  > 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "104058052",
-				"date" : "20210127000000",
-				"counts" : "255",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161646",
-				"name" : "St Lazare vers Thiers entre12 et 21 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "102052946",
-				"date" : "20210125000000",
-				"counts" : "379",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161613",
-				"name" : "Pont Daladier Piétons Piétons entrée de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "353242241",
-				"date" : "20210124000000",
-				"counts" : "102",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161625",
-				"name" : "Pont Daladier Vélos [Bike IN]",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20201129040000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "107058052",
-				"date" : "20210128000000",
-				"counts" : "12",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161659",
-				"name" : "Thiers vers St Lazare  > 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "106058052",
-				"date" : "20210123000000",
-				"counts" : "64",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161652",
-				"name" : "St Lazare vers Thiers entre 21 et 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "103058052",
-				"date" : "20210127000000",
-				"counts" : "248",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161642",
-				"name" : "Thiers vers St Lazare entre 12 et 21 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "100052946",
-				"date" : "20210128000000",
-				"counts" : "966",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Pont Daladier Piétons",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "100052947",
-				"date" : "20210128000000",
-				"counts" : "866",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Pont Daladier Vélos",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
@@ -8564,27 +10139,6 @@
 				"meta_millesime" : 2021,
 				"meta_datmaj" : "20210129161636",
 				"name" : "St Lazare vers Thiers < 12 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "106058052",
-				"date" : "20210128000000",
-				"counts" : "126",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161655",
-				"name" : "St Lazare vers Thiers entre 21 et 30 kmh",
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
@@ -8606,195 +10160,6 @@
 				"meta_millesime" : 2021,
 				"meta_datmaj" : "20210129161700",
 				"name" : "St Lazare vers Thiers > 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "101052946",
-				"date" : "20210125000000",
-				"counts" : "453",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161609",
-				"name" : "Pont Daladier Piétons Piétons sortie de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "106058052",
-				"date" : "20210126000000",
-				"counts" : "163",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161654",
-				"name" : "St Lazare vers Thiers entre 21 et 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "102058052",
-				"date" : "20210123000000",
-				"counts" : "60",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161636",
-				"name" : "St Lazare vers Thiers < 12 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "100052946",
-				"date" : "20210126000000",
-				"counts" : "689",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Pont Daladier Piétons",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "101052947",
-				"date" : "20210128000000",
-				"counts" : "349",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161619",
-				"name" : "Pont Daladier Vélos Vélos sortie de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "103058052",
-				"date" : "20210124000000",
-				"counts" : "140",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161640",
-				"name" : "Thiers vers St Lazare entre 12 et 21 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "101052946",
-				"date" : "20210126000000",
-				"counts" : "376",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161609",
-				"name" : "Pont Daladier Piétons Piétons sortie de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "104058052",
-				"date" : "20210124000000",
-				"counts" : "132",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161644",
-				"name" : "St Lazare vers Thiers entre12 et 21 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "105058052",
-				"date" : "20210128000000",
-				"counts" : "69",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161651",
-				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
 				"domain" : "Mairie d'Avignon Service Mobilité",
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
@@ -8826,258 +10191,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "108058052",
-				"date" : "20210126000000",
-				"counts" : "13",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161702",
-				"name" : "St Lazare vers Thiers > 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "100058052",
-				"date" : "20210127000000",
-				"counts" : "796",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Limbert",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "101052946",
-				"date" : "20210123000000",
-				"counts" : "464",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161607",
-				"name" : "Pont Daladier Piétons Piétons sortie de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "104058052",
-				"date" : "20210128000000",
-				"counts" : "308",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161647",
-				"name" : "St Lazare vers Thiers entre12 et 21 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "103058052",
-				"date" : "20210128000000",
-				"counts" : "279",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161643",
-				"name" : "Thiers vers St Lazare entre 12 et 21 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "107058052",
-				"date" : "20210127000000",
-				"counts" : "5",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161658",
-				"name" : "Thiers vers St Lazare  > 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "101052946",
-				"date" : "20210124000000",
-				"counts" : "655",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161608",
-				"name" : "Pont Daladier Piétons Piétons sortie de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "102052947",
-				"date" : "20210123000000",
-				"counts" : "212",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161620",
-				"name" : "Pont Daladier Vélos Vélos entrée de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "108058052",
-				"date" : "20210127000000",
-				"counts" : "6",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161702",
-				"name" : "St Lazare vers Thiers > 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "103058052",
-				"date" : "20210125000000",
-				"counts" : "284",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161641",
-				"name" : "Thiers vers St Lazare entre 12 et 21 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "353242244",
-				"date" : "20210128000000",
-				"counts" : "199",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161631",
-				"name" : "Pont Daladier Vélos [Bike OUT]",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20201129040000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "353242241",
-				"date" : "20210128000000",
-				"counts" : "93",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161627",
-				"name" : "Pont Daladier Vélos [Bike IN]",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20201129040000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 4.8022500733, 43.950940437 ]
 			},
 			"properties" : {
@@ -9099,174 +10212,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "100052946",
-				"date" : "20210123000000",
-				"counts" : "897",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Pont Daladier Piétons",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "101052946",
-				"date" : "20210127000000",
-				"counts" : "469",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161610",
-				"name" : "Pont Daladier Piétons Piétons sortie de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "107058052",
-				"date" : "20210124000000",
-				"counts" : "3",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161656",
-				"name" : "Thiers vers St Lazare  > 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "100058052",
-				"date" : "20210126000000",
-				"counts" : "819",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Limbert",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "102052946",
-				"date" : "20210127000000",
-				"counts" : "411",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161614",
-				"name" : "Pont Daladier Piétons Piétons entrée de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "101052947",
-				"date" : "20210127000000",
-				"counts" : "306",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161618",
-				"name" : "Pont Daladier Vélos Vélos sortie de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "353242241",
-				"date" : "20210127000000",
-				"counts" : "92",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161626",
-				"name" : "Pont Daladier Vélos [Bike IN]",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20201129040000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "106058052",
-				"date" : "20210127000000",
-				"counts" : "123",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161654",
-				"name" : "St Lazare vers Thiers entre 21 et 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
@@ -9282,48 +10227,6 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "100052947",
-				"date" : "20210125000000",
-				"counts" : "666",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Pont Daladier Vélos",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "102052946",
-				"date" : "20210124000000",
-				"counts" : "663",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161612",
-				"name" : "Pont Daladier Piétons Piétons entrée de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
 			}
 		},
 		{
@@ -9355,69 +10258,6 @@
 			},
 			"properties" : {
 				"cpt_id" : "101058052",
-				"date" : "20210128000000",
-				"counts" : "58",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161635",
-				"name" : "Thiers vers St Lazare  < 12 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "102052947",
-				"date" : "20210124000000",
-				"counts" : "198",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161620",
-				"name" : "Pont Daladier Vélos Vélos entrée de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "101058052",
-				"date" : "20210123000000",
-				"counts" : "39",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161632",
-				"name" : "Thiers vers St Lazare  < 12 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "101058052",
 				"date" : "20210122000000",
 				"counts" : "5",
 				"status" : "0",
@@ -9429,90 +10269,6 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "101058052",
-				"date" : "20210124000000",
-				"counts" : "46",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161633",
-				"name" : "Thiers vers St Lazare  < 12 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "101052947",
-				"date" : "20210126000000",
-				"counts" : "224",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161618",
-				"name" : "Pont Daladier Vélos Vélos sortie de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "107058052",
-				"date" : "20210125000000",
-				"counts" : "1",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161657",
-				"name" : "Thiers vers St Lazare  > 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "100052947",
-				"date" : "20210124000000",
-				"counts" : "842",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Pont Daladier Vélos",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
 			}
 		},
 		{
@@ -9540,111 +10296,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "104058052",
-				"date" : "20210126000000",
-				"counts" : "217",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161646",
-				"name" : "St Lazare vers Thiers entre12 et 21 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "100052947",
-				"date" : "20210123000000",
-				"counts" : "757",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Pont Daladier Vélos",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "353242241",
-				"date" : "20210125000000",
-				"counts" : "68",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161625",
-				"name" : "Pont Daladier Vélos [Bike IN]",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20201129040000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "100058052",
-				"date" : "20210128000000",
-				"counts" : "924",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161705",
-				"name" : "Limbert",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "100052947",
-				"date" : "20210126000000",
-				"counts" : "559",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Pont Daladier Vélos",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 4.80119, 43.95111 ]
 			},
 			"properties" : {
@@ -9660,153 +10311,6 @@
 				"user_type_libelle" : "piéton",
 				"installation_date" : "20190701000000",
 				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "102052946",
-				"date" : "20210128000000",
-				"counts" : "466",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161615",
-				"name" : "Pont Daladier Piétons Piétons entrée de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "105058052",
-				"date" : "20210124000000",
-				"counts" : "28",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161649",
-				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "108058052",
-				"date" : "20210128000000",
-				"counts" : "5",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161703",
-				"name" : "St Lazare vers Thiers > 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "105058052",
-				"date" : "20210127000000",
-				"counts" : "44",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161650",
-				"name" : "Thiers vers St Lazare entre 21 et 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "101058052",
-				"date" : "20210127000000",
-				"counts" : "55",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161634",
-				"name" : "Thiers vers St Lazare  < 12 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "107058052",
-				"date" : "20210126000000",
-				"counts" : "8",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161658",
-				"name" : "Thiers vers St Lazare  > 30 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "100052947",
-				"date" : "20210127000000",
-				"counts" : "775",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Pont Daladier Vélos",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20190701000000",
-				"counter" : "YTH19058714"
 			}
 		},
 		{
@@ -9834,111 +10338,6 @@
 			"type" : "Feature",
 			"geometry" : {
 				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "353242244",
-				"date" : "20210123000000",
-				"counts" : "160",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161628",
-				"name" : "Pont Daladier Vélos [Bike OUT]",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20201129040000",
-				"counter" : "YTH19058714"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "100058052",
-				"date" : "20210125000000",
-				"counts" : "911",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Limbert",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "100052946",
-				"date" : "20210124000000",
-				"counts" : "1318",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161704",
-				"name" : "Pont Daladier Piétons",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.80119, 43.95111 ]
-			},
-			"properties" : {
-				"cpt_id" : "102052946",
-				"date" : "20210123000000",
-				"counts" : "433",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161611",
-				"name" : "Pont Daladier Piétons Piétons entrée de ville",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "piéton",
-				"installation_date" : "20190701000000",
-				"counter" : "Y2H19058715"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "103058052",
-				"date" : "20210123000000",
-				"counts" : "142",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161640",
-				"name" : "Thiers vers St Lazare entre 12 et 21 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
 				"coordinates" : [ 4.8177, 43.94737 ]
 			},
 			"properties" : {
@@ -9954,48 +10353,6 @@
 				"user_type_libelle" : "vélo",
 				"installation_date" : "20200127000000",
 				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8177, 43.94737 ]
-			},
-			"properties" : {
-				"cpt_id" : "102058052",
-				"date" : "20210124000000",
-				"counts" : "33",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161637",
-				"name" : "St Lazare vers Thiers < 12 kmh",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20200127000000",
-				"counter" : "X2H19111551"
-			}
-		},
-		{
-			"type" : "Feature",
-			"geometry" : {
-				"type" : "Point",
-				"coordinates" : [ 4.8022500733, 43.950940437 ]
-			},
-			"properties" : {
-				"cpt_id" : "353242244",
-				"date" : "20210124000000",
-				"counts" : "196",
-				"status" : "0",
-				"status_libelle" : "brute",
-				"meta_millesime" : 2021,
-				"meta_datmaj" : "20210129161629",
-				"name" : "Pont Daladier Vélos [Bike OUT]",
-				"domain" : "Mairie d'Avignon Service Mobilité",
-				"user_type_libelle" : "vélo",
-				"installation_date" : "20201129040000",
-				"counter" : "YTH19058714"
 			}
 		}
 	]
