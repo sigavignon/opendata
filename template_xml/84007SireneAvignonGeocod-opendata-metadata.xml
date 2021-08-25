@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gmd:MD_Metadata xsi:schemaLocation="http://www.isotc211.org/2005/gmd http://schemas.opengis.net/iso/19139/20060504/gmd/gmd.xsd" xmlns:gmd="http://www.isotc211.org/2005/gmd" xmlns:gco="http://www.isotc211.org/2005/gco" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:gml="http://www.opengis.net/gml" xmlns:xlink="http://www.w3.org/1999/xlink">
+	<gmd:fileIdentifier>
+		<gco:CharacterString>fr-218400075-84007SireneAvignonGeocod</gco:CharacterString>
+	</gmd:fileIdentifier>
+	<gmd:language>
+		<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre">fre</gmd:LanguageCode>
+	</gmd:language>
+	<gmd:characterSet>
+		<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+	</gmd:characterSet>
+	<gmd:hierarchyLevel>
+		<gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+	</gmd:hierarchyLevel>
+	<gmd:contact>
+	<gmd:CI_ResponsibleParty>
+		<gmd:organisationName>
+			<gco:CharacterString>Mairie Avignon / SIG</gco:CharacterString>
+		</gmd:organisationName>
+		<gmd:contactInfo>
+			<gmd:CI_Contact>
+				<gmd:phone>
+					<gmd:CI_Telephone>
+						<gmd:voice>
+							<gco:CharacterString>None</gco:CharacterString>
+						</gmd:voice>
+					</gmd:CI_Telephone>
+				</gmd:phone>
+				<gmd:address>
+					<gmd:CI_Address>
+						<gmd:deliveryPoint>
+							<gco:CharacterString>Place de l'Horloge</gco:CharacterString>
+						</gmd:deliveryPoint>
+						<gmd:city>
+							<gco:CharacterString>Avignon Cedex 9</gco:CharacterString>
+						</gmd:city>
+						<gmd:postalCode>
+							<gco:CharacterString>84045</gco:CharacterString>
+						</gmd:postalCode>
+						<gmd:country>
+							<gco:CharacterString>France</gco:CharacterString>
+						</gmd:country>
+						<gmd:electronicMailAddress>
+							<gco:CharacterString>sig@mairie-avignon.com</gco:CharacterString>
+						</gmd:electronicMailAddress>
+					</gmd:CI_Address>
+				</gmd:address>
+				<gmd:onlineResource>
+					<gmd:CI_OnlineResource>
+						<gmd:linkage>
+							<gmd:URL></gmd:URL>
+							</gmd:linkage>
+					</gmd:CI_OnlineResource>
+				</gmd:onlineResource>
+			</gmd:CI_Contact>
+		</gmd:contactInfo>
+		<gmd:role>
+			<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="pointOfContact">pointOfContact</gmd:CI_RoleCode>
+		</gmd:role>
+	</gmd:CI_ResponsibleParty>
+	</gmd:contact>
+	<gmd:dateStamp>
+		<gco:Date>2018-02-27</gco:Date>
+	</gmd:dateStamp>
+	<gmd:metadataStandardName>
+		<gco:CharacterString>ISO19115</gco:CharacterString>
+	</gmd:metadataStandardName>
+	<gmd:metadataStandardVersion>
+		<gco:CharacterString>2003/Cor.1:2006</gco:CharacterString>
+	</gmd:metadataStandardVersion>
+	<gmd:referenceSystemInfo>
+		<gmd:MD_ReferenceSystem>
+			<gmd:referenceSystemIdentifier>
+				<gmd:RS_Identifier>
+					<gmd:code>
+						<gco:CharacterString>2154</gco:CharacterString>
+					</gmd:code>
+					<gmd:codeSpace>
+						<gco:CharacterString>urn:ogc:def:crs:EPSG:6.11</gco:CharacterString>
+					</gmd:codeSpace>
+					<gmd:version>
+						<gco:CharacterString>6.11</gco:CharacterString>
+					</gmd:version>
+				</gmd:RS_Identifier>
+			</gmd:referenceSystemIdentifier>
+		</gmd:MD_ReferenceSystem>
+	</gmd:referenceSystemInfo>
+	<gmd:identificationInfo>
+		<gmd:MD_DataIdentification>
+			<gmd:citation>
+				<gmd:CI_Citation>
+					<gmd:title>
+						<gco:CharacterString>Fichier SIRENE géocodé sur Avignon avec historique et classification complémentaire.</gco:CharacterString>
+					</gmd:title>
+					<gmd:date>
+						<gmd:CI_Date>
+							<gmd:date>
+								<gco:Date>2018-02-27</gco:Date>
+							</gmd:date>
+							<gmd:dateType>
+								<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="publication">publication</gmd:CI_DateTypeCode>
+							</gmd:dateType>
+						</gmd:CI_Date>
+					</gmd:date>
+					<gmd:date>
+						<gmd:CI_Date>
+							<gmd:date>
+								<gco:Date>2018-02-27</gco:Date>
+							</gmd:date>
+							<gmd:dateType>
+								<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
+							</gmd:dateType>
+						</gmd:CI_Date>
+					</gmd:date>
+					<gmd:date>
+						<gmd:CI_Date>
+							<gmd:date>
+								<gco:Date>2018-02-27</gco:Date>
+							</gmd:date>
+							<gmd:dateType>
+								<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="revision">revision</gmd:CI_DateTypeCode>
+							</gmd:dateType>
+						</gmd:CI_Date>
+					</gmd:date>
+					<gmd:identifier>
+						<gmd:MD_Identifier>
+							<gmd:code>
+								<gco:CharacterString>fr-218400075-84007SireneAvignonGeocod</gco:CharacterString>
+							</gmd:code>
+						</gmd:MD_Identifier>
+					</gmd:identifier>
+				</gmd:CI_Citation>
+			</gmd:citation>
+			<gmd:abstract>
+				<gco:CharacterString>Fichier SIRENE géocodé sur Avignon avec historique et classification complémentaire.
+==============
+* Fichier SIRENE téléchargé tous les mois à partir de data.gouv.fr
+* Filtre des données sur Avignon
+* Détection des suppressions d'établissement par rapport à la base M-1
+* Géocodage des nouveaux établissements avec la BAN
+* Ajustement des localisations au fil de l'eau
+* Ajout d'une classification complémentaire à Avignon.
+---
+Données NON OPPOSABLE 
+LICENCE OUVERTE (http://www.etalab.gouv.fr)  
+Donnée dérivée de la base SIRENE de l'INSEE publiée sur www.data.gouv.fr
+source de la donnée initiale : https://www.data.gouv.fr/fr/datasets/base-sirene-des-entreprises-et-de-leurs-etablissements-siren-siret/
+
+---
+La base Sirene contenant des données à caractère personnel, l'Insee attire votre attention sur les obligations légales qui en découlent:
+
+* Le traitement de ces données relève des obligations de déclaration de la Loi 78-17 du 6 janvier 1978 modifiée, dîte Loi CNIL : https://www.cnil.fr/fr/loi-78-17-du-6-janvier-1978-modifiee
+* Selon votre usage du jeu de données, il est de votre responsabilité de tenir compte du statut de diffusion le plus récent de chaque personne physique. En effet, l'article A123-96 du code de commerce dispose que : "Toute personne physique peut demander soit directement lors de ses formalités de création ou de modification, soit par lettre adressée au directeur général de l'Institut national de la statistique et des études économiques, que les informations du répertoire la concernant ne puissent être utilisées par des tiers autres que les organismes habilités au titre de l'article R. 123-224 ou les administrations, à des fins de prospection, notamment commerciale."
+
+NB : Les fichiers sont déposés un peu plus tardivement début janvier et début juillet en raison d'opérations de mise en concordance semestrielle de la base de diffusion.
+
+Le site de l’Insee www.sirene.fr fournit des informations sur le contenu de ces bases, ainsi que la documentation associée et une Foire Aux Questions pour vous aider, comprenant plus de 50 questions-réponses.
+
+Pour toute demande de création, de modification ou de changement concernant votre situation administrative, nous vous invitons à contacter le Centre de formalités des entreprises dont vous dépendez : https://www.service-public.fr/professionnels-entreprises/vosdroits/F24023</gco:CharacterString>
+			</gmd:abstract>
+			<gmd:pointOfContact>
+			<gmd:CI_ResponsibleParty>
+				<gmd:organisationName>
+					<gco:CharacterString>Maire Avignon</gco:CharacterString>
+				</gmd:organisationName>
+				<gmd:contactInfo>
+					<gmd:CI_Contact>
+						<gmd:phone>
+							<gmd:CI_Telephone>
+								<gmd:voice>
+									<gco:CharacterString>None</gco:CharacterString>
+								</gmd:voice>
+							</gmd:CI_Telephone>
+						</gmd:phone>
+						<gmd:address>
+							<gmd:CI_Address>
+								<gmd:deliveryPoint>
+									<gco:CharacterString>Place de l'Horloge</gco:CharacterString>
+								</gmd:deliveryPoint>
+								<gmd:city>
+									<gco:CharacterString>Avignon Cedex 9</gco:CharacterString>
+								</gmd:city>
+								<gmd:postalCode>
+									<gco:CharacterString>84045</gco:CharacterString>
+								</gmd:postalCode>
+								<gmd:country>
+									<gco:CharacterString>France</gco:CharacterString>
+								</gmd:country>
+								<gmd:electronicMailAddress>
+									<gco:CharacterString>contact@mairie-avignon.com</gco:CharacterString>
+								</gmd:electronicMailAddress>
+							</gmd:CI_Address>
+						</gmd:address>
+						<gmd:onlineResource>
+							<gmd:CI_OnlineResource>
+								<gmd:linkage>
+									<gmd:URL></gmd:URL>
+									</gmd:linkage>
+							</gmd:CI_OnlineResource>
+						</gmd:onlineResource>
+					</gmd:CI_Contact>
+				</gmd:contactInfo>
+				<gmd:role>
+					<gmd:CI_RoleCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_RoleCode" codeListValue="owner">owner</gmd:CI_RoleCode>
+				</gmd:role>
+			</gmd:CI_ResponsibleParty>
+			</gmd:pointOfContact>
+			<gmd:descriptiveKeywords>
+				<gmd:MD_Keywords>
+					<gmd:keyword>
+						<gco:CharacterString>Avignon</gco:CharacterString>
+					</gmd:keyword>
+				</gmd:MD_Keywords>
+			</gmd:descriptiveKeywords>
+			<gmd:descriptiveKeywords>
+				<gmd:MD_Keywords>
+					<gmd:keyword>
+						<gco:CharacterString>données ouvertes</gco:CharacterString>
+					</gmd:keyword>
+				</gmd:MD_Keywords>
+			</gmd:descriptiveKeywords>
+			<gmd:descriptiveKeywords>
+				<gmd:MD_Keywords>
+					<gmd:keyword>
+						<gco:CharacterString>sirene</gco:CharacterString>
+					</gmd:keyword>
+				</gmd:MD_Keywords>
+			</gmd:descriptiveKeywords>
+			<gmd:descriptiveKeywords>
+				<gmd:MD_Keywords>
+					<gmd:keyword>
+						<gco:CharacterString>commerces</gco:CharacterString>
+					</gmd:keyword>
+				</gmd:MD_Keywords>
+			</gmd:descriptiveKeywords>
+			<gmd:resourceConstraints>
+				<gmd:MD_LegalConstraints>
+					<gmd:useLimitation>
+						<gco:CharacterString>Licence ouverte / Open licence : lO / Ol (Etalab)</gco:CharacterString>
+					</gmd:useLimitation>
+					<gmd:accessConstraints>
+						<gmd:MD_RestrictionCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#MD_RestrictionCode" codeListValue="otherRestrictions">otherRestrictions</gmd:MD_RestrictionCode>
+					</gmd:accessConstraints>
+					<gmd:otherConstraints>
+						<gco:CharacterString>Pas de restriction d'accès public selon INSPIRE</gco:CharacterString>
+					</gmd:otherConstraints>
+				</gmd:MD_LegalConstraints>
+			</gmd:resourceConstraints>
+			<gmd:spatialResolution>
+				<gmd:MD_Resolution>
+					<gmd:equivalentScale>
+						<gmd:MD_RepresentativeFraction>
+							<gmd:denominator>
+								<gco:Integer>2000</gco:Integer>
+							</gmd:denominator>
+						</gmd:MD_RepresentativeFraction>
+					</gmd:equivalentScale>
+				</gmd:MD_Resolution>
+			</gmd:spatialResolution>
+			<gmd:language>
+				<gmd:LanguageCode codeList="http://www.loc.gov/standards/iso639-2/" codeListValue="fre">fre</gmd:LanguageCode>
+			</gmd:language>
+			<gmd:characterSet>
+				<gmd:MD_CharacterSetCode codeList="http://www.isotc211.org/2005/resources/codeList.xml#MD_CharacterSetCode" codeListValue="utf8">utf8</gmd:MD_CharacterSetCode>
+			</gmd:characterSet>
+			<gmd:extent>
+				<gmd:EX_Extent>
+					<gmd:description>
+						<gco:CharacterString>Liste des emprises</gco:CharacterString>
+					</gmd:description>
+					<gmd:geographicElement>
+						<gmd:EX_GeographicBoundingBox>
+							<gmd:westBoundLongitude>
+								<gco:Decimal>4.7826146</gco:Decimal>
+							</gmd:westBoundLongitude>
+							<gmd:eastBoundLongitude>
+								<gco:Decimal>4.89646188</gco:Decimal>
+							</gmd:eastBoundLongitude>
+							<gmd:southBoundLatitude>
+								<gco:Decimal>43.90825198</gco:Decimal>
+							</gmd:southBoundLatitude>
+							<gmd:northBoundLatitude>
+								<gco:Decimal>43.96509923</gco:Decimal>
+							</gmd:northBoundLatitude>
+						</gmd:EX_GeographicBoundingBox>
+					</gmd:geographicElement>
+				</gmd:EX_Extent>
+			</gmd:extent>
+		</gmd:MD_DataIdentification>
+	</gmd:identificationInfo>
+	<gmd:distributionInfo>
+		<gmd:MD_Distribution>
+			<gmd:distributionFormat>
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>ESRI Shapefile</gco:CharacterString>
+					</gmd:name>
+					<gmd:version>
+						<gco:CharacterString>1.0</gco:CharacterString>
+					</gmd:version>
+				</gmd:MD_Format>
+			</gmd:distributionFormat>
+			<gmd:distributionFormat>
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>GeoJSON</gco:CharacterString>
+					</gmd:name>
+					<gmd:version>
+						<gco:CharacterString> </gco:CharacterString>
+					</gmd:version>
+				</gmd:MD_Format>
+			</gmd:distributionFormat>
+			<gmd:distributionFormat>
+				<gmd:MD_Format>
+					<gmd:name>
+						<gco:CharacterString>SQLite / Spatialite</gco:CharacterString>
+					</gmd:name>
+					<gmd:version>
+						<gco:CharacterString>None</gco:CharacterString>
+					</gmd:version>
+				</gmd:MD_Format>
+			</gmd:distributionFormat>
+			<gmd:transferOptions>
+				<gmd:MD_DigitalTransferOptions>
+					<gmd:onLine>
+						<gmd:CI_OnlineResource>
+							<gmd:linkage>
+								<gmd:URL>http://www.avignon.fr</gmd:URL>
+							</gmd:linkage>
+							<gmd:name>
+								<gco:CharacterString>Site institutionnel de la Mairie d'Avignon</gco:CharacterString>
+							</gmd:name>
+						</gmd:CI_OnlineResource>
+					</gmd:onLine>
+				</gmd:MD_DigitalTransferOptions>
+			</gmd:transferOptions>
+		</gmd:MD_Distribution>
+	</gmd:distributionInfo>
+	<gmd:dataQualityInfo>
+		<gmd:DQ_DataQuality>
+			<gmd:scope>
+				<gmd:DQ_Scope>
+					<gmd:level>
+						<gmd:MD_ScopeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/codelist/gmxCodelists.xml#MD_ScopeCode" codeListValue="dataset">dataset</gmd:MD_ScopeCode>
+					</gmd:level>
+				</gmd:DQ_Scope>
+			</gmd:scope>
+			<gmd:report>
+				<gmd:DQ_DomainConsistency xsi:type="gmd:DQ_DomainConsistency_Type">
+					<gmd:result>
+						<gmd:DQ_ConformanceResult xsi:type="gmd:DQ_ConformanceResult_Type">
+							<gmd:specification>
+								<gmd:CI_Citation>
+									<gmd:title>
+										<gco:CharacterString>RÈGLEMENT (UE) N° 1089/2010</gco:CharacterString>
+									</gmd:title>
+									<gmd:date>
+										<gmd:CI_Date>
+											<gmd:date>
+												<gco:Date>2010-11-23</gco:Date>
+											</gmd:date>
+											<gmd:dateType>
+												<gmd:CI_DateTypeCode codeList="http://standards.iso.org/ittf/PubliclyAvailableStandards/ISO_19139_Schemas/resources/Codelist/ML_gmxCodelists.xml#CI_DateTypeCode" codeListValue="creation">creation</gmd:CI_DateTypeCode>
+											</gmd:dateType>
+										</gmd:CI_Date>
+									</gmd:date>
+								</gmd:CI_Citation>
+							</gmd:specification>
+							<gmd:explanation>
+								<gco:CharacterString>See the referenced specification</gco:CharacterString>
+							</gmd:explanation>
+							<gmd:pass>
+								<gco:Boolean>true</gco:Boolean>
+							</gmd:pass>
+						</gmd:DQ_ConformanceResult>
+					</gmd:result>
+				</gmd:DQ_DomainConsistency>
+			</gmd:report>
+			<gmd:lineage>
+				<gmd:LI_Lineage>
+					<gmd:statement>
+						<gco:CharacterString>- Fichier SIRENE téléchargé tous les mois à partir de data.gouv.fr
+- Filtre des données sur Avignon
+- Détection des suppressions d'établissement par rapport à la base M-1
+- Géocodage des nouveaux établissements avec la BAN
+- Ajout d'une classification complémentaire à Avignon.</gco:CharacterString>
+					</gmd:statement>
+				</gmd:LI_Lineage>
+			</gmd:lineage>
+		</gmd:DQ_DataQuality>
+	</gmd:dataQualityInfo>
+</gmd:MD_Metadata>
