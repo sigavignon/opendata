@@ -1,0 +1,34 @@
+{
+	"type" : "FeatureCollection",
+	"name" : "Output",
+	"features" : [
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 4.812049624239061, 43.943322970990046 ],
+					[ 4.812454582498123, 43.94339677024533 ]
+				]
+			},
+			"properties" : {
+				"name" : "Tour des Remparts",
+				"description" : "**voie verte**\nRevêtement : **lisse**\nAvancement : **projet**"
+			}
+		},
+		{
+			"type" : "Feature",
+			"geometry" : {
+				"type" : "LineString",
+				"coordinates" : [
+					[ 4.8147618448045595, 43.9439158242932 ],
+					[ 4.815020181663692, 43.94405864056235 ]
+				]
+			},
+			"properties" : {
+				"name" : "Tour des Remparts",
+				"description" : "**voie verte**\nRevêtement : **lisse**\nAvancement : **projet**"
+			}
+		}
+	]
+}
